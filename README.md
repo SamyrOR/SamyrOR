@@ -3,22 +3,22 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samyror&label=Profile%20views&color=0e75b6&style=flat" alt="samyror" /> </p>
 
-
 ```typescript
-import { Person } from "@humanity"
+import { Person } from "@humanity";
 
-    const samyr: Person = {
-        pronouns: "He" | "Him",
-        workingOn: "Making my github more interesting",
-        currentlyLearning: "Improving front-end tech skills",
-        wantCollaborate: "Open source projects",
-        askMeAbout: ["web dev", "tech", "games", "movies", "travels"],
-        funcFact: ["love reading", "sk8boarding", "nature places", "guitar"],
-    }
+const samyr: Person = {
+  pronouns: "He" | "Him",
+  workingOn: "Making my github more interesting",
+  currentlyLearning: "Improving front-end tech skills",
+  wantCollaborate: "Open source projects",
+  askMeAbout: ["web dev", "tech", "games", "movies", "travels"],
+  funcFact: ["love reading", "sk8boarding", "nature places", "guitar"],
+};
 ```
---- 
 
-## 📬 Get in Touch:
+---
+
+### 📬 Get in Touch:
 
 <p align="left">
 <a href="https://codepen.io/samyror" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="samyror" height="32" width="40" /></a>
@@ -31,8 +31,8 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ---
 
+### 📚 Tech stack:
 
-## 📚 Tech stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -57,16 +57,20 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
---- 
-## 📈 GitHub Stats
+---
 
-<img  src="https://github-readme-stats.vercel.app/api?username=SamyrOR&show_icons=true&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9" alt="samyror" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samyror&show_icons=true&locale=en&layout=compact&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9" alt="samyror" />
+### 📈 GitHub Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=SamyrOR&show_icons=true&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9" alt="samyror" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samyror&show_icons=true&locale=en&layout=compact&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9" alt="samyror" />
 
 ---
 
-### :zap: Recent Activity
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+### ⏰ Time Spent
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
