@@ -59,7 +59,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 --- 
 ## 📈 GitHub Stats
-<img  src="https://github-readme-stats.vercel.app/api?username=SamyrOR&show_icons=true&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a
+<img  src="https://github-readme-stats.vercel.app/api?username=SamyrOR&show_icons=true&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9
 " alt="samyror" />
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samyror&show_icons=true&locale=en&layout=compact&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9" alt="samyror" />
 
