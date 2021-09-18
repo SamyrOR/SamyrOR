@@ -68,9 +68,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/SamyrOR/requisicoes-app/pull/5) in [SamyrOR/requisicoes-app](https://github.com/SamyrOR/requisicoes-app)
 <!--END_SECTION:activity-->
 
 ---
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 hrs 36 mins       █████████████████████░░░░   85.23% 
+SCSS                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.91% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
+
+🔥 Editors: 
+VS Code                  3 hrs 3 mins        █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+Frontend-Mentor          3 hrs 3 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    3 hrs 3 mins        █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 18/09/2021
 <!--END_SECTION:waka-->
