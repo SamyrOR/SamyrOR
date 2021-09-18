@@ -68,6 +68,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/SamyrOR/requisicoes-app/pull/5) in [SamyrOR/requisicoes-app](https://github.com/SamyrOR/requisicoes-app)
 <!--END_SECTION:activity-->
 
 ### ⏰ Time Spent
