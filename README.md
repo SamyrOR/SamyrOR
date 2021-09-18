@@ -70,7 +70,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### ⏰ Time Spent
+---
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
