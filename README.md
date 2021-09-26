@@ -61,45 +61,47 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ### 📈 GitHub Stats
 
-<img  src="https://github-readme-stats.vercel.app/api?username=SamyrOR&show_icons=true&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9line_height=20" alt="samyror stats" /> 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=samyror&show_icons=true&locale=en&layout=compact&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9" alt="samyror lang stats" />
+![Github Status](https://github-readme-stats.vercel.app/api?username=SamyrOR&show_icons=true&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9&line_height=20)
+![Github used languages](https://github-readme-stats.vercel.app/api/top-langs?username=samyror&show_icons=true&locale=en&layout=compact&bg_color=FFF&title_color=b80f0a&text_color=000&icon_color=b80f0a&border_color=a9a9a9)
 
 ---
 
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#5](https://github.com/SamyrOR/requisicoes-app/pull/5) in [SamyrOR/requisicoes-app](https://github.com/SamyrOR/requisicoes-app)
 <!--END_SECTION:activity-->
 
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               6 hrs 17 mins       ████████████░░░░░░░░░░░░░   50.17% 
-HTML                     2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76% 
-Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81% 
-SCSS                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39% 
+💬 Programming Languages:
+JavaScript               6 hrs 17 mins       ████████████░░░░░░░░░░░░░   50.17%
+HTML                     2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.76%
+Markdown                 2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81%
+SCSS                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.39%
 YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.25%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  12 hrs 32 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-7Days7Projects           8 hrs 20 mins       ████████████████░░░░░░░░░   66.59% 
-Frontend-Mentor          1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Estudos                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   8.05% 
-possible-ui              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.07% 
+🐱‍💻 Projects:
+7Days7Projects           8 hrs 20 mins       ████████████████░░░░░░░░░   66.59%
+Frontend-Mentor          1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.77%
+Estudos                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
+possible-ui              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.07%
 SamyrOR                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    12 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
+Last Updated on 25/09/2021
 
- Last Updated on 25/09/2021
 <!--END_SECTION:waka-->
