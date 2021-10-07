@@ -8,7 +8,7 @@ import { Person } from "@humanity";
 
 const samyr: Person = {
   pronouns: "He" | "Him",
-  workingOn: "Making my github more interesting",
+  workingOn: "Personal website in angular",
   currentlyLearning: "Improving front-end tech skills",
   wantCollaborate: "Open source projects",
   askMeAbout: ["web dev", "tech", "games", "movies", "travels"],
