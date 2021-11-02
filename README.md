@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Welcome to my github, i'm Samyr front-end developer from  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/>  <b>São Bernardo, Brazil</b></h3>
+<h3 align="center">Welcome to my github, i'm Samyr front-end developer from  <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>  <b>São Bernardo, Brazil</b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samyror&label=Profile%20views&color=0e75b6&style=flat" alt="samyror" /> </p>
 
