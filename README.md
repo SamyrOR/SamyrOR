@@ -70,10 +70,10 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. 🔱 Forked [Nishantkumarr/recent-activity](https://github.com/Nishantkumarr/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🎉 Merged PR [#128](https://github.com/Readme-Workflows/recent-activity/pull/128) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 👍 Approved [#128](https://github.com/Readme-Workflows/recent-activity/pull/128#pullrequestreview-793680311) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ⭐ Starred [SamyrOR/SamyrOR](https://github.com/SamyrOR/SamyrOR)
+3. ⭐ Starred [felipefialho/Front-end-Developer-Interview-Questions](https://github.com/felipefialho/Front-end-Developer-Interview-Questions)
+4. ⭐ Starred [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
+5. ⭐ Starred [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
 <!--RECENT_ACTIVITY:end-->
 
 ---
