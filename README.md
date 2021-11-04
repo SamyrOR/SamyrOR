@@ -69,6 +69,12 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🔱 Forked [Nishantkumarr/recent-activity](https://github.com/Nishantkumarr/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 🎉 Merged PR [#128](https://github.com/Readme-Workflows/recent-activity/pull/128) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. 👍 Approved [#128](https://github.com/Readme-Workflows/recent-activity/pull/128#pullrequestreview-793680311) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. 💪 Opened PR [#128](https://github.com/Readme-Workflows/recent-activity/pull/128) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
