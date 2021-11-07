@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ⭐ Starred [SamyrOR/SamyrOR](https://github.com/SamyrOR/SamyrOR)
-3. ⭐ Starred [felipefialho/Front-end-Developer-Interview-Questions](https://github.com/felipefialho/Front-end-Developer-Interview-Questions)
-4. ⭐ Starred [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
-5. ⭐ Starred [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
+1. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+2. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ⭐ Starred [SamyrOR/SamyrOR](https://github.com/SamyrOR/SamyrOR)
+4. ⭐ Starred [felipefialho/Front-end-Developer-Interview-Questions](https://github.com/felipefialho/Front-end-Developer-Interview-Questions)
+5. ⭐ Starred [felipefialho/awesome-made-by-brazilians](https://github.com/felipefialho/awesome-made-by-brazilians)
 <!--RECENT_ACTIVITY:end-->
 
 ---
