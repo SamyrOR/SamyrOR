@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
-2. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-3. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ⭐ Starred [SamyrOR/SamyrOR](https://github.com/SamyrOR/SamyrOR)
-5. ⭐ Starred [felipefialho/Front-end-Developer-Interview-Questions](https://github.com/felipefialho/Front-end-Developer-Interview-Questions)
+1. ❗️ Opened issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
+2. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+3. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ⭐ Starred [SamyrOR/SamyrOR](https://github.com/SamyrOR/SamyrOR)
 <!--RECENT_ACTIVITY:end-->
 
 ---
