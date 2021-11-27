@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
-2. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
-3. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-4. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ⭐ Starred [SamyrOR/SamyrOR](https://github.com/SamyrOR/SamyrOR)
+1. 📔 Created new repository [SamyrOR/charity-finder-app](https://github.com/SamyrOR/charity-finder-app)
+2. ❗️ Opened issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
+3. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+4. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
+5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ---
