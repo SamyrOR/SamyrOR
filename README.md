@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/charity-finder-app](https://github.com/SamyrOR/charity-finder-app)
-2. ❗️ Opened issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
-3. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
-4. ⭐ Starred [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions)
-5. ⭐ Starred [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🔱 Forked [SamyrOR/app-ideas](https://github.com/SamyrOR/app-ideas) from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+2. ⭐ Starred [florinpop17/weekly-projects](https://github.com/florinpop17/weekly-projects)
+3. 📔 Created new repository [SamyrOR/charity-finder-app](https://github.com/SamyrOR/charity-finder-app)
+4. ❗️ Opened issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
+5. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
 <!--RECENT_ACTIVITY:end-->
 
 ---
