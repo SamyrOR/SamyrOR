@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samyror&label=Profile%20views&color=0e75b6&style=flat" alt="samyror" /> </p>
 
 ```typescript
-import { Person } from "@humanity";
+import { Person } from "@humankind";
 
 const samyr: Person = {
   pronouns: "He" | "Him",
