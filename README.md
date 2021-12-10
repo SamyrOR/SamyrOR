@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [SamyrOR/app-ideas](https://github.com/SamyrOR/app-ideas) from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. ⭐ Starred [florinpop17/weekly-projects](https://github.com/florinpop17/weekly-projects)
-3. 📔 Created new repository [SamyrOR/charity-finder-app](https://github.com/SamyrOR/charity-finder-app)
-4. ❗️ Opened issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
-5. ⭐ Starred [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+1. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
+2. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
+3. 🔱 Forked [SamyrOR/app-ideas](https://github.com/SamyrOR/app-ideas) from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+4. ⭐ Starred [florinpop17/weekly-projects](https://github.com/florinpop17/weekly-projects)
+5. 📔 Created new repository [SamyrOR/charity-finder-app](https://github.com/SamyrOR/charity-finder-app)
 <!--RECENT_ACTIVITY:end-->
 
 ---
