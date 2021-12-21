@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [brazil-it-groups/code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
-2. ⭐ Starred [bmrf/tron](https://github.com/bmrf/tron)
-3. 🔱 Forked [SamyrOR/tron](https://github.com/SamyrOR/tron) from [bmrf/tron](https://github.com/bmrf/tron)
-4. 💪 Opened PR [#512](https://github.com/florinpop17/app-ideas/pull/512) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-5. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
+1. 📔 Created new repository [SamyrOR/ionic-recipes](https://github.com/SamyrOR/ionic-recipes)
+2. ⭐ Starred [brazil-it-groups/code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
+3. ⭐ Starred [bmrf/tron](https://github.com/bmrf/tron)
+4. 🔱 Forked [SamyrOR/tron](https://github.com/SamyrOR/tron) from [bmrf/tron](https://github.com/bmrf/tron)
+5. 💪 Opened PR [#512](https://github.com/florinpop17/app-ideas/pull/512) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--RECENT_ACTIVITY:end-->
 
 ---
