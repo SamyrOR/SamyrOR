@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
-2. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
-3. 🔱 Forked [SamyrOR/app-ideas](https://github.com/SamyrOR/app-ideas) from [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-4. ⭐ Starred [florinpop17/weekly-projects](https://github.com/florinpop17/weekly-projects)
-5. 📔 Created new repository [SamyrOR/charity-finder-app](https://github.com/SamyrOR/charity-finder-app)
+1. ⭐ Starred [bmrf/tron](https://github.com/bmrf/tron)
+2. 🔱 Forked [SamyrOR/tron](https://github.com/SamyrOR/tron) from [bmrf/tron](https://github.com/bmrf/tron)
+3. 💪 Opened PR [#512](https://github.com/florinpop17/app-ideas/pull/512) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+4. ⭐ Starred [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis)
+5. ⭐ Starred [mehdihadeli/awesome-software-architecture](https://github.com/mehdihadeli/awesome-software-architecture)
 <!--RECENT_ACTIVITY:end-->
 
 ---
