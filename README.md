@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/ionic-recipes](https://github.com/SamyrOR/ionic-recipes)
-2. ⭐ Starred [brazil-it-groups/code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
-3. ⭐ Starred [bmrf/tron](https://github.com/bmrf/tron)
-4. 🔱 Forked [SamyrOR/tron](https://github.com/SamyrOR/tron) from [bmrf/tron](https://github.com/bmrf/tron)
-5. 💪 Opened PR [#512](https://github.com/florinpop17/app-ideas/pull/512) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. ⭐ Starred [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
+2. 📔 Created new repository [SamyrOR/ionic-recipes](https://github.com/SamyrOR/ionic-recipes)
+3. ⭐ Starred [brazil-it-groups/code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
+4. ⭐ Starred [bmrf/tron](https://github.com/bmrf/tron)
+5. 🔱 Forked [SamyrOR/tron](https://github.com/SamyrOR/tron) from [bmrf/tron](https://github.com/bmrf/tron)
 <!--RECENT_ACTIVITY:end-->
 
 ---
