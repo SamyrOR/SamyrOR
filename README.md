@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MasterTuto/Guia-Aulas-Online-CC-UESB](https://github.com/MasterTuto/Guia-Aulas-Online-CC-UESB)
-2. ⭐ Starred [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
-3. ⭐ Starred [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
-4. 📔 Created new repository [SamyrOR/ionic-recipes](https://github.com/SamyrOR/ionic-recipes)
-5. ⭐ Starred [brazil-it-groups/code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
+1. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+2. ⭐ Starred [MasterTuto/Guia-Aulas-Online-CC-UESB](https://github.com/MasterTuto/Guia-Aulas-Online-CC-UESB)
+3. ⭐ Starred [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+4. ⭐ Starred [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms)
+5. 📔 Created new repository [SamyrOR/ionic-recipes](https://github.com/SamyrOR/ionic-recipes)
 <!--RECENT_ACTIVITY:end-->
 
 ---
