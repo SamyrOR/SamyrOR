@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
-2. ⭐ Starred [sourabh-joshi/awesome-quincy-larson-emails](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
-3. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-4. ⭐ Starred [MasterTuto/Guia-Aulas-Online-CC-UESB](https://github.com/MasterTuto/Guia-Aulas-Online-CC-UESB)
-5. ⭐ Starred [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao)
+1. ⭐ Starred [oblador/loki](https://github.com/oblador/loki)
+2. ⭐ Starred [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
+3. ⭐ Starred [sourabh-joshi/awesome-quincy-larson-emails](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
+4. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+5. ⭐ Starred [MasterTuto/Guia-Aulas-Online-CC-UESB](https://github.com/MasterTuto/Guia-Aulas-Online-CC-UESB)
 <!--RECENT_ACTIVITY:end-->
 
 ---
