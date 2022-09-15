@@ -69,7 +69,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [oblador/loki](https://github.com/oblador/loki)
+1. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 2. ⭐ Starred [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
 3. ⭐ Starred [sourabh-joshi/awesome-quincy-larson-emails](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
 4. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
