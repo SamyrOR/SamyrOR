@@ -69,8 +69,8 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-2. ⭐ Starred [arthurspk/guiadevbrasil](https://github.com/arthurspk/guiadevbrasil)
+1. ✔️ Closed issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
+2. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 3. ⭐ Starred [sourabh-joshi/awesome-quincy-larson-emails](https://github.com/sourabh-joshi/awesome-quincy-larson-emails)
 4. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 5. ⭐ Starred [MasterTuto/Guia-Aulas-Online-CC-UESB](https://github.com/MasterTuto/Guia-Aulas-Online-CC-UESB)
