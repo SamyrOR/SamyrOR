@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#277](https://github.com/atapas/fork-me/pull/277) in [atapas/fork-me](https://github.com/atapas/fork-me)
-2. ❌ Closed PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
-3. 💪 Opened PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
-4. 🔱 Forked [SamyrOR/fork-me](https://github.com/SamyrOR/fork-me) from [atapas/fork-me](https://github.com/atapas/fork-me)
-5. ✔️ Closed issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
+1. 🎉 Merged PR [#15](https://github.com/SamyrOR/Estudos/pull/15) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+2. 🎉 Merged PR [#5](https://github.com/SamyrOR/Estudos/pull/5) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+3. 🎉 Merged PR [#6](https://github.com/SamyrOR/Estudos/pull/6) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+4. 🎉 Merged PR [#10](https://github.com/SamyrOR/Estudos/pull/10) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+5. 🎉 Merged PR [#14](https://github.com/SamyrOR/Estudos/pull/14) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
 <!--RECENT_ACTIVITY:end-->
 
 ---
