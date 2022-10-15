@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
-2. 💪 Opened PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
-3. 🔱 Forked [SamyrOR/fork-me](https://github.com/SamyrOR/fork-me) from [atapas/fork-me](https://github.com/atapas/fork-me)
-4. ✔️ Closed issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
-5. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+1. 💪 Opened PR [#277](https://github.com/atapas/fork-me/pull/277) in [atapas/fork-me](https://github.com/atapas/fork-me)
+2. ❌ Closed PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
+3. 💪 Opened PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
+4. 🔱 Forked [SamyrOR/fork-me](https://github.com/SamyrOR/fork-me) from [atapas/fork-me](https://github.com/atapas/fork-me)
+5. ✔️ Closed issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
 <!--RECENT_ACTIVITY:end-->
 
 ---
