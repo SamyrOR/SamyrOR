@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#15](https://github.com/SamyrOR/Estudos/pull/15) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
-2. 🎉 Merged PR [#5](https://github.com/SamyrOR/Estudos/pull/5) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
-3. 🎉 Merged PR [#6](https://github.com/SamyrOR/Estudos/pull/6) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
-4. 🎉 Merged PR [#10](https://github.com/SamyrOR/Estudos/pull/10) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
-5. 🎉 Merged PR [#14](https://github.com/SamyrOR/Estudos/pull/14) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+1. 🔱 Forked [SamyrOR/MemoriesApp](https://github.com/SamyrOR/MemoriesApp) from [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
+2. 🎉 Merged PR [#15](https://github.com/SamyrOR/Estudos/pull/15) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+3. 🎉 Merged PR [#5](https://github.com/SamyrOR/Estudos/pull/5) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+4. 🎉 Merged PR [#6](https://github.com/SamyrOR/Estudos/pull/6) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+5. 🎉 Merged PR [#10](https://github.com/SamyrOR/Estudos/pull/10) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
 <!--RECENT_ACTIVITY:end-->
 
 ---
