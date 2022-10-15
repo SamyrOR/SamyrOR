@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [SamyrOR/fork-me](https://github.com/SamyrOR/fork-me) from [atapas/fork-me](https://github.com/atapas/fork-me)
-2. ✔️ Closed issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
-3. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
-4. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-5. ⭐ Starred [MasterTuto/Guia-Aulas-Online-CC-UESB](https://github.com/MasterTuto/Guia-Aulas-Online-CC-UESB)
+1. ❌ Closed PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
+2. 💪 Opened PR [#276](https://github.com/atapas/fork-me/pull/276) in [atapas/fork-me](https://github.com/atapas/fork-me)
+3. 🔱 Forked [SamyrOR/fork-me](https://github.com/SamyrOR/fork-me) from [atapas/fork-me](https://github.com/atapas/fork-me)
+4. ✔️ Closed issue [#518](https://github.com/frontendbr/me-contrata/issues/518) in [frontendbr/me-contrata](https://github.com/frontendbr/me-contrata)
+5. ⭐ Starred [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
 <!--RECENT_ACTIVITY:end-->
 
 ---
