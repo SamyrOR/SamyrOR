@@ -79,7 +79,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C100%20hrs%2024%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -106,5 +106,5 @@ WSL                      10 hrs 23 mins      ███████████�
 ```
 
 
- Last Updated on 29/10/2022 18:49:08 UTC
+ Last Updated on 30/10/2022 18:49:41 UTC
 <!--END_SECTION:waka-->
