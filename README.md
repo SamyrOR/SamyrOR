@@ -69,9 +69,9 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#18](https://github.com/SamyrOR/Estudos/pull/18) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
-2. 🎉 Merged PR [#17](https://github.com/SamyrOR/Estudos/pull/17) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
-3. ⭐ Starred [junegunn/vim-plug](https://github.com/junegunn/vim-plug)
+1. ⭐ Starred [luizalabs/dev-guide](https://github.com/luizalabs/dev-guide)
+2. 🎉 Merged PR [#18](https://github.com/SamyrOR/Estudos/pull/18) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
+3. 🎉 Merged PR [#17](https://github.com/SamyrOR/Estudos/pull/17) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
 4. 🔱 Forked [SamyrOR/MemoriesApp](https://github.com/SamyrOR/MemoriesApp) from [shreya024/MemoriesApp](https://github.com/shreya024/MemoriesApp)
 5. 🎉 Merged PR [#15](https://github.com/SamyrOR/Estudos/pull/15) in [SamyrOR/Estudos](https://github.com/SamyrOR/Estudos)
 <!--RECENT_ACTIVITY:end-->
