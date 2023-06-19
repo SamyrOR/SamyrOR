@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/nlw-spacetime](https://github.com/SamyrOR/nlw-spacetime)
-2. ⭐ Starred [arthurgiani/flutter-animation-guide](https://github.com/arthurgiani/flutter-animation-guide)
-3. ⭐ Starred [arthurgiani/flutter-training](https://github.com/arthurgiani/flutter-training)
-4. ⭐ Starred [DaniFBN/flutter_training](https://github.com/DaniFBN/flutter_training)
-5. ⭐ Starred [sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer)
+1. ⭐ Starred [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos)
+2. 📔 Created new repository [SamyrOR/nlw-spacetime](https://github.com/SamyrOR/nlw-spacetime)
+3. ⭐ Starred [arthurgiani/flutter-animation-guide](https://github.com/arthurgiani/flutter-animation-guide)
+4. ⭐ Starred [arthurgiani/flutter-training](https://github.com/arthurgiani/flutter-training)
+5. ⭐ Starred [DaniFBN/flutter_training](https://github.com/DaniFBN/flutter_training)
 <!--RECENT_ACTIVITY:end-->
 
 ---
