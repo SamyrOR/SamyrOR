@@ -69,8 +69,8 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos)
-2. 📔 Created new repository [SamyrOR/nlw-spacetime](https://github.com/SamyrOR/nlw-spacetime)
+1. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)
+2. ⭐ Starred [DIGOARTHUR/github-automated-repos](https://github.com/DIGOARTHUR/github-automated-repos)
 3. ⭐ Starred [arthurgiani/flutter-animation-guide](https://github.com/arthurgiani/flutter-animation-guide)
 4. ⭐ Starred [arthurgiani/flutter-training](https://github.com/arthurgiani/flutter-training)
 5. ⭐ Starred [DaniFBN/flutter_training](https://github.com/DaniFBN/flutter_training)
