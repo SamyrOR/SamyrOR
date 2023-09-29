@@ -69,10 +69,10 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/practice_flutter_ui](https://github.com/SamyrOR/practice_flutter_ui)
-2. ⭐ Starred [akitaonrails/computer_languages_genealogy_graphs](https://github.com/akitaonrails/computer_languages_genealogy_graphs)
-3. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)
-4. ⭐ Starred [arthurgiani/flutter-training](https://github.com/arthurgiani/flutter-training)
+1. 📔 Created new repository [SamyrOR/ztm-ds-algo](https://github.com/SamyrOR/ztm-ds-algo)
+2. 📔 Created new repository [SamyrOR/practice_flutter_ui](https://github.com/SamyrOR/practice_flutter_ui)
+3. ⭐ Starred [akitaonrails/computer_languages_genealogy_graphs](https://github.com/akitaonrails/computer_languages_genealogy_graphs)
+4. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)
 5. ⭐ Starred [DaniFBN/flutter_training](https://github.com/DaniFBN/flutter_training)
 <!--RECENT_ACTIVITY:end-->
 
