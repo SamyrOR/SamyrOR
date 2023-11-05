@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#21482](https://github.com/zero-to-mastery/start-here-guidelines/pull/21482) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-2. 🔱 Forked [SamyrOR/start-here-guidelines](https://github.com/SamyrOR/start-here-guidelines) from [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-3. 📔 Created new repository [SamyrOR/ztm-ds-algo](https://github.com/SamyrOR/ztm-ds-algo)
-4. 📔 Created new repository [SamyrOR/practice_flutter_ui](https://github.com/SamyrOR/practice_flutter_ui)
-5. ⭐ Starred [akitaonrails/computer_languages_genealogy_graphs](https://github.com/akitaonrails/computer_languages_genealogy_graphs)
+1. 💪 Opened PR [#3083](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3083) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+2. 🔱 Forked [SamyrOR/ZtM-Job-Board](https://github.com/SamyrOR/ZtM-Job-Board) from [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+3. 💪 Opened PR [#21482](https://github.com/zero-to-mastery/start-here-guidelines/pull/21482) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+4. 🔱 Forked [SamyrOR/start-here-guidelines](https://github.com/SamyrOR/start-here-guidelines) from [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+5. 📔 Created new repository [SamyrOR/ztm-ds-algo](https://github.com/SamyrOR/ztm-ds-algo)
 <!--RECENT_ACTIVITY:end-->
 
 ---
