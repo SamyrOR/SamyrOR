@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/ztm-ds-algo](https://github.com/SamyrOR/ztm-ds-algo)
-2. 📔 Created new repository [SamyrOR/practice_flutter_ui](https://github.com/SamyrOR/practice_flutter_ui)
-3. ⭐ Starred [akitaonrails/computer_languages_genealogy_graphs](https://github.com/akitaonrails/computer_languages_genealogy_graphs)
-4. ⭐ Starred [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto)
-5. ⭐ Starred [DaniFBN/flutter_training](https://github.com/DaniFBN/flutter_training)
+1. 💪 Opened PR [#21482](https://github.com/zero-to-mastery/start-here-guidelines/pull/21482) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+2. 🔱 Forked [SamyrOR/start-here-guidelines](https://github.com/SamyrOR/start-here-guidelines) from [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+3. 📔 Created new repository [SamyrOR/ztm-ds-algo](https://github.com/SamyrOR/ztm-ds-algo)
+4. 📔 Created new repository [SamyrOR/practice_flutter_ui](https://github.com/SamyrOR/practice_flutter_ui)
+5. ⭐ Starred [akitaonrails/computer_languages_genealogy_graphs](https://github.com/akitaonrails/computer_languages_genealogy_graphs)
 <!--RECENT_ACTIVITY:end-->
 
 ---
