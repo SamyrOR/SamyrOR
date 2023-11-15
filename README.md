@@ -69,11 +69,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide)
-2. 💪 Opened PR [#3083](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3083) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-3. 🔱 Forked [SamyrOR/ZtM-Job-Board](https://github.com/SamyrOR/ZtM-Job-Board) from [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-4. 💪 Opened PR [#21482](https://github.com/zero-to-mastery/start-here-guidelines/pull/21482) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
-5. 🔱 Forked [SamyrOR/start-here-guidelines](https://github.com/SamyrOR/start-here-guidelines) from [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
+1. 📔 Created new repository [SamyrOR/my-config-astronvim](https://github.com/SamyrOR/my-config-astronvim)
+2. ⭐ Starred [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide)
+3. 💪 Opened PR [#3083](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3083) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+4. 🔱 Forked [SamyrOR/ZtM-Job-Board](https://github.com/SamyrOR/ZtM-Job-Board) from [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+5. 💪 Opened PR [#21482](https://github.com/zero-to-mastery/start-here-guidelines/pull/21482) in [zero-to-mastery/start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines)
 <!--RECENT_ACTIVITY:end-->
 
 ---
