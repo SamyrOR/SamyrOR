@@ -8,10 +8,10 @@ import { Person } from "@humankind";
 
 const samyr: Person = {
   pronouns: "He" | "Him",
-  workingOn: "Personal website in angular",
-  currentlyLearning: "Improving front-end tech skills",
+  workingOn: "Back-end with Elixir",
+  currentlyLearning: "Functional programming with Elixir, and Mobile with Flutter",
   wantCollaborate: "Open source projects",
-  askMeAbout: ["web dev", "tech", "games", "movies", "travels"],
+  askMeAbout: ["web dev", "tech", "games", "movies", "travels", "functional programming", "mobile"],
   funcFact: ["love reading", "sk8boarding", "nature places", "guitar"],
 };
 ```
@@ -55,7 +55,10 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
