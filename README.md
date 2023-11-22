@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/password-generator](https://github.com/SamyrOR/password-generator)
-2. 📔 Created new repository [SamyrOR/my-config-astronvim](https://github.com/SamyrOR/my-config-astronvim)
-3. ⭐ Starred [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide)
-4. 💪 Opened PR [#3083](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/3083) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-5. 🔱 Forked [SamyrOR/ZtM-Job-Board](https://github.com/SamyrOR/ZtM-Job-Board) from [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+1. ⭐ Starred [nerves-project/nerves](https://github.com/nerves-project/nerves)
+2. ⭐ Starred [elixir-lang/elixir](https://github.com/elixir-lang/elixir)
+3. 📔 Created new repository [SamyrOR/password-generator](https://github.com/SamyrOR/password-generator)
+4. 📔 Created new repository [SamyrOR/my-config-astronvim](https://github.com/SamyrOR/my-config-astronvim)
+5. ⭐ Starred [christopheradams/elixir_style_guide](https://github.com/christopheradams/elixir_style_guide)
 <!--RECENT_ACTIVITY:end-->
 
 ---
