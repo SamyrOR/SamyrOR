@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells)
-2. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
-3. ⭐ Starred [ThiagoxxLive/z1-rest-skeleton](https://github.com/ThiagoxxLive/z1-rest-skeleton)
-4. ⭐ Starred [nerves-project/nerves](https://github.com/nerves-project/nerves)
-5. ⭐ Starred [elixir-lang/elixir](https://github.com/elixir-lang/elixir)
+1. 📔 Created new repository [SamyrOR/simple_elixir_crud](https://github.com/SamyrOR/simple_elixir_crud)
+2. ⭐ Starred [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells)
+3. ⭐ Starred [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev)
+4. ⭐ Starred [ThiagoxxLive/z1-rest-skeleton](https://github.com/ThiagoxxLive/z1-rest-skeleton)
+5. ⭐ Starred [nerves-project/nerves](https://github.com/nerves-project/nerves)
 <!--RECENT_ACTIVITY:end-->
 
 ---
