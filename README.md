@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C962%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C963%20hrs%2034%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -107,5 +107,5 @@ Mac                      2 hrs 37 mins       ███████████�
 ```
 
 
- Last Updated on 28/01/2024 01:47:16 UTC
+ Last Updated on 29/01/2024 01:42:32 UTC
 <!--END_SECTION:waka-->
