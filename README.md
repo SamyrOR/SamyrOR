@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mtl/keyboard-pcbs](https://github.com/mtl/keyboard-pcbs)
-2. ⭐ Starred [mattdibi/redox-keyboard](https://github.com/mattdibi/redox-keyboard)
-3. ⭐ Starred [sasa1977/elixir-in-action](https://github.com/sasa1977/elixir-in-action)
-4. 📔 Created new repository [SamyrOR/simple_elixir_crud](https://github.com/SamyrOR/simple_elixir_crud)
-5. ⭐ Starred [lucasvegi/Elixir-Code-Smells](https://github.com/lucasvegi/Elixir-Code-Smells)
+1. ⭐ Starred [gothinkster/realworld](https://github.com/gothinkster/realworld)
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+3. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+4. ⭐ Starred [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
+5. ⭐ Starred [mtl/keyboard-pcbs](https://github.com/mtl/keyboard-pcbs)
 <!--RECENT_ACTIVITY:end-->
 
 ---
