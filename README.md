@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [SamyrOR/pescarte-plataforma](https://github.com/SamyrOR/pescarte-plataforma) from [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
-2. ⭐ Starred [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
-3. ⭐ Starred [gothinkster/realworld](https://github.com/gothinkster/realworld)
-4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-5. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+1. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
+2. 🔱 Forked [SamyrOR/pescarte-plataforma](https://github.com/SamyrOR/pescarte-plataforma) from [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
+3. ⭐ Starred [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
+4. ⭐ Starred [gothinkster/realworld](https://github.com/gothinkster/realworld)
+5. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 <!--RECENT_ACTIVITY:end-->
 
 ---
