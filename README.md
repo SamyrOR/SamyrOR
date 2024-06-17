@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
-2. ⭐ Starred [dashbitco/bytepack_archive](https://github.com/dashbitco/bytepack_archive)
-3. 💪 Opened PR [#169](https://github.com/peapescarte/pescarte-plataforma/pull/169) in [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
-4. ⭐ Starred [coollabsio/coolify](https://github.com/coollabsio/coolify)
-5. 🔱 Forked [SamyrOR/pescarte-plataforma](https://github.com/SamyrOR/pescarte-plataforma) from [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
+1. 🎉 Merged PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+2. 💪 Opened PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+3. ⭐ Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
+4. ⭐ Starred [dashbitco/bytepack_archive](https://github.com/dashbitco/bytepack_archive)
+5. 💪 Opened PR [#169](https://github.com/peapescarte/pescarte-plataforma/pull/169) in [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
 <!--RECENT_ACTIVITY:end-->
 
 ---
