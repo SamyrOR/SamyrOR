@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-2. 💪 Opened PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-3. ⭐ Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
-4. ⭐ Starred [dashbitco/bytepack_archive](https://github.com/dashbitco/bytepack_archive)
-5. 💪 Opened PR [#169](https://github.com/peapescarte/pescarte-plataforma/pull/169) in [peapescarte/pescarte-plataforma](https://github.com/peapescarte/pescarte-plataforma)
+1. ⭐ Starred [grocy/grocy](https://github.com/grocy/grocy)
+2. 🎉 Merged PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+3. 💪 Opened PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+4. ⭐ Starred [DevToys-app/DevToys](https://github.com/DevToys-app/DevToys)
+5. ⭐ Starred [dashbitco/bytepack_archive](https://github.com/dashbitco/bytepack_archive)
 <!--RECENT_ACTIVITY:end-->
 
 ---
