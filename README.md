@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryanaidilp/PICO_SULTENG_FLUTTER](https://github.com/ryanaidilp/PICO_SULTENG_FLUTTER)
-2. ⭐ Starred [gerfalcon/fp_playground](https://github.com/gerfalcon/fp_playground)
-3. ⭐ Starred [grocy/grocy](https://github.com/grocy/grocy)
-4. 🎉 Merged PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-5. 💪 Opened PR [#1](https://github.com/SamyrOR/personal-website/pull/1) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+1. 🎉 Merged PR [#2](https://github.com/SamyrOR/personal-website/pull/2) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+2. 💪 Opened PR [#2](https://github.com/SamyrOR/personal-website/pull/2) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+3. ⭐ Starred [ryanaidilp/PICO_SULTENG_FLUTTER](https://github.com/ryanaidilp/PICO_SULTENG_FLUTTER)
+4. ⭐ Starred [gerfalcon/fp_playground](https://github.com/gerfalcon/fp_playground)
+5. ⭐ Starred [grocy/grocy](https://github.com/grocy/grocy)
 <!--RECENT_ACTIVITY:end-->
 
 ---
