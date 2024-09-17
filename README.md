@@ -88,20 +88,18 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Elixir                   2 hrs 45 mins       █████████████████████████   99.79 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ze_challenge_backend     2 hrs 45 mins       █████████████████████████   99.79 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      2 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/09/2024 02:17:19 UTC
+ Last Updated on 17/09/2024 01:47:13 UTC
 <!--END_SECTION:waka-->
