@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [utterance/utterances](https://github.com/utterance/utterances)
-2. 📔 Created new repository [SamyrOR/ze_challenge_backend](https://github.com/SamyrOR/ze_challenge_backend)
-3. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-4. 💪 Opened PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-5. ⭐ Starred [feder-cr/linkedIn_auto_jobs_applier_with_AI](https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI)
+1. ⭐ Starred [nerves-project/nerves_examples](https://github.com/nerves-project/nerves_examples)
+2. ⭐ Starred [utterance/utterances](https://github.com/utterance/utterances)
+3. 📔 Created new repository [SamyrOR/ze_challenge_backend](https://github.com/SamyrOR/ze_challenge_backend)
+4. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+5. 💪 Opened PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
 <!--RECENT_ACTIVITY:end-->
 
 ---
