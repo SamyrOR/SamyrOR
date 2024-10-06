@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nerves-project/nerves_examples](https://github.com/nerves-project/nerves_examples)
-2. ⭐ Starred [utterance/utterances](https://github.com/utterance/utterances)
-3. 📔 Created new repository [SamyrOR/ze_challenge_backend](https://github.com/SamyrOR/ze_challenge_backend)
-4. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-5. 💪 Opened PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+1. 📔 Created new repository [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+2. ⭐ Starred [nerves-project/nerves_examples](https://github.com/nerves-project/nerves_examples)
+3. ⭐ Starred [utterance/utterances](https://github.com/utterance/utterances)
+4. 📔 Created new repository [SamyrOR/ze_challenge_backend](https://github.com/SamyrOR/ze_challenge_backend)
+5. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-website/pull/3) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
 <!--RECENT_ACTIVITY:end-->
 
 ---
