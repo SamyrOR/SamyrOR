@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
-2. 📔 Created new repository [SamyrOR/birita_visionh](https://github.com/SamyrOR/birita_visionh)
-3. 📔 Created new repository [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
-4. ⭐ Starred [nerves-project/nerves_examples](https://github.com/nerves-project/nerves_examples)
-5. ⭐ Starred [utterance/utterances](https://github.com/utterance/utterances)
+1. 🤝 Became collaborator on [SamyrOR/birita_vision](https://github.com/SamyrOR/birita_vision)
+2. ⭐ Starred [giscus/giscus](https://github.com/giscus/giscus)
+3. 📔 Created new repository [SamyrOR/birita_visionh](https://github.com/SamyrOR/birita_visionh)
+4. 📔 Created new repository [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+5. ⭐ Starred [nerves-project/nerves_examples](https://github.com/nerves-project/nerves_examples)
 <!--RECENT_ACTIVITY:end-->
 
 ---
