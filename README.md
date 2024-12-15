@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/exoplanets_api](https://github.com/SamyrOR/exoplanets_api)
-2. ⭐ Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
-3. 🎉 Merged PR [#2](https://github.com/SamyrOR/personal-blog/pull/2) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
-4. 💪 Opened PR [#2](https://github.com/SamyrOR/personal-blog/pull/2) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
-5. 🤝 Became collaborator on [SamyrOR/birita_vision](https://github.com/SamyrOR/birita_vision)
+1. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-blog/pull/3) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+2. 💪 Opened PR [#3](https://github.com/SamyrOR/personal-blog/pull/3) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+3. 📔 Created new repository [SamyrOR/exoplanets_api](https://github.com/SamyrOR/exoplanets_api)
+4. ⭐ Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+5. 🎉 Merged PR [#2](https://github.com/SamyrOR/personal-blog/pull/2) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
 <!--RECENT_ACTIVITY:end-->
 
 ---
