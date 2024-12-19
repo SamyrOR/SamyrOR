@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
-2. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-blog/pull/3) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
-3. 💪 Opened PR [#3](https://github.com/SamyrOR/personal-blog/pull/3) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
-4. 📔 Created new repository [SamyrOR/exoplanets_api](https://github.com/SamyrOR/exoplanets_api)
-5. ⭐ Starred [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird)
+1. 📔 Created new repository [SamyrOR/exoplanets_explorer](https://github.com/SamyrOR/exoplanets_explorer)
+2. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
+3. 🎉 Merged PR [#3](https://github.com/SamyrOR/personal-blog/pull/3) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+4. 💪 Opened PR [#3](https://github.com/SamyrOR/personal-blog/pull/3) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+5. 📔 Created new repository [SamyrOR/exoplanets_api](https://github.com/SamyrOR/exoplanets_api)
 <!--RECENT_ACTIVITY:end-->
 
 ---
