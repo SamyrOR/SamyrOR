@@ -72,7 +72,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons)
+1. 📔 Created new repository [SamyrOR/pomo_tempus](https://github.com/SamyrOR/pomo_tempus)
 2. ⭐ Starred [loiane/modern-angular](https://github.com/loiane/modern-angular)
 3. 📔 Created new repository [SamyrOR/cs50](https://github.com/SamyrOR/cs50)
 4. 📔 Created new repository [SamyrOR/exoplanets_explorer](https://github.com/SamyrOR/exoplanets_explorer)
