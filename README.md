@@ -72,9 +72,9 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [polvalente/code-beam-lite-nyc-2024](https://github.com/polvalente/code-beam-lite-nyc-2024)
-2. ⭐ Starred [ideaMarcos/tictactemoji](https://github.com/ideaMarcos/tictactemoji)
-3. 📔 Created new repository [SamyrOR/cs50](https://github.com/SamyrOR/cs50)
+1. ⭐ Starred [matheuscamarques/walkie_tokie_live](https://github.com/matheuscamarques/walkie_tokie_live)
+2. ⭐ Starred [polvalente/code-beam-lite-nyc-2024](https://github.com/polvalente/code-beam-lite-nyc-2024)
+3. ⭐ Starred [ideaMarcos/tictactemoji](https://github.com/ideaMarcos/tictactemoji)
 4. 📔 Created new repository [SamyrOR/exoplanets_explorer](https://github.com/SamyrOR/exoplanets_explorer)
 5. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
 <!--RECENT_ACTIVITY:end-->
