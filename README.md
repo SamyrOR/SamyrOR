@@ -72,10 +72,10 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [matheuscamarques/walkie_tokie_live](https://github.com/matheuscamarques/walkie_tokie_live)
-2. ⭐ Starred [polvalente/code-beam-lite-nyc-2024](https://github.com/polvalente/code-beam-lite-nyc-2024)
-3. ⭐ Starred [ideaMarcos/tictactemoji](https://github.com/ideaMarcos/tictactemoji)
-4. 📔 Created new repository [SamyrOR/exoplanets_explorer](https://github.com/SamyrOR/exoplanets_explorer)
+1. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-introduction-to-github/pull/2) in [SamyrOR/skills-introduction-to-github](https://github.com/SamyrOR/skills-introduction-to-github)
+2. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-introduction-to-github/pull/2) in [SamyrOR/skills-introduction-to-github](https://github.com/SamyrOR/skills-introduction-to-github)
+3. 📔 Created new repository [SamyrOR/skills-introduction-to-github](https://github.com/SamyrOR/skills-introduction-to-github)
+4. ⭐ Starred [matheuscamarques/walkie_tokie_live](https://github.com/matheuscamarques/walkie_tokie_live)
 5. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
 <!--RECENT_ACTIVITY:end-->
 
