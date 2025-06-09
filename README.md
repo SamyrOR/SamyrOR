@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-introduction-to-github/pull/2) in [SamyrOR/skills-introduction-to-github](https://github.com/SamyrOR/skills-introduction-to-github)
-2. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-introduction-to-github/pull/2) in [SamyrOR/skills-introduction-to-github](https://github.com/SamyrOR/skills-introduction-to-github)
-3. 📔 Created new repository [SamyrOR/skills-introduction-to-github](https://github.com/SamyrOR/skills-introduction-to-github)
-4. ⭐ Starred [matheuscamarques/walkie_tokie_live](https://github.com/matheuscamarques/walkie_tokie_live)
-5. ⭐ Starred [Aider-AI/aider](https://github.com/Aider-AI/aider)
+1. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
+2. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
+3. 📔 Created new repository [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
+4. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-introduction-to-codeql/pull/2) in [SamyrOR/skills-introduction-to-codeql](https://github.com/SamyrOR/skills-introduction-to-codeql)
+5. ❗️ Opened issue [#1](https://github.com/SamyrOR/skills-introduction-to-codeql/issues/1) in [SamyrOR/skills-introduction-to-codeql](https://github.com/SamyrOR/skills-introduction-to-codeql)
 <!--RECENT_ACTIVITY:end-->
 
 ---
