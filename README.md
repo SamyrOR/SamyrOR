@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/skills-code-with-codespaces](https://github.com/SamyrOR/skills-code-with-codespaces)
-2. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
-3. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
-4. 📔 Created new repository [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
-5. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-introduction-to-codeql/pull/2) in [SamyrOR/skills-introduction-to-codeql](https://github.com/SamyrOR/skills-introduction-to-codeql)
+1. ⭐ Starred [ThiagoxxLive/OpenOSD](https://github.com/ThiagoxxLive/OpenOSD)
+2. 📔 Created new repository [SamyrOR/skills-code-with-codespaces](https://github.com/SamyrOR/skills-code-with-codespaces)
+3. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
+4. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
+5. 📔 Created new repository [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
 <!--RECENT_ACTIVITY:end-->
 
 ---
