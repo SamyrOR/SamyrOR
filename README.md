@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ThiagoxxLive/OpenOSD](https://github.com/ThiagoxxLive/OpenOSD)
-2. 📔 Created new repository [SamyrOR/skills-code-with-codespaces](https://github.com/SamyrOR/skills-code-with-codespaces)
-3. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
-4. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-getting-started-with-github-copilot/pull/2) in [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
-5. 📔 Created new repository [SamyrOR/skills-getting-started-with-github-copilot](https://github.com/SamyrOR/skills-getting-started-with-github-copilot)
+1. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-communicate-using-markdown/pull/2) in [SamyrOR/skills-communicate-using-markdown](https://github.com/SamyrOR/skills-communicate-using-markdown)
+2. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-communicate-using-markdown/pull/2) in [SamyrOR/skills-communicate-using-markdown](https://github.com/SamyrOR/skills-communicate-using-markdown)
+3. 📔 Created new repository [SamyrOR/skills-communicate-using-markdown](https://github.com/SamyrOR/skills-communicate-using-markdown)
+4. ⭐ Starred [ThiagoxxLive/OpenOSD](https://github.com/ThiagoxxLive/OpenOSD)
+5. 📔 Created new repository [SamyrOR/skills-code-with-codespaces](https://github.com/SamyrOR/skills-code-with-codespaces)
 <!--RECENT_ACTIVITY:end-->
 
 ---
