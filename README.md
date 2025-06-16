@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/SamyrOR/skills-communicate-using-markdown/pull/2) in [SamyrOR/skills-communicate-using-markdown](https://github.com/SamyrOR/skills-communicate-using-markdown)
-2. 💪 Opened PR [#2](https://github.com/SamyrOR/skills-communicate-using-markdown/pull/2) in [SamyrOR/skills-communicate-using-markdown](https://github.com/SamyrOR/skills-communicate-using-markdown)
-3. 📔 Created new repository [SamyrOR/skills-communicate-using-markdown](https://github.com/SamyrOR/skills-communicate-using-markdown)
-4. ⭐ Starred [ThiagoxxLive/OpenOSD](https://github.com/ThiagoxxLive/OpenOSD)
-5. 📔 Created new repository [SamyrOR/skills-code-with-codespaces](https://github.com/SamyrOR/skills-code-with-codespaces)
+1. 📔 Created new repository [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
+2. 🎉 Merged PR [#1](https://github.com/SamyrOR/skills-review-pull-requests/pull/1) in [SamyrOR/skills-review-pull-requests](https://github.com/SamyrOR/skills-review-pull-requests)
+3. 💪 Opened PR [#1](https://github.com/SamyrOR/skills-review-pull-requests/pull/1) in [SamyrOR/skills-review-pull-requests](https://github.com/SamyrOR/skills-review-pull-requests)
+4. 📔 Created new repository [SamyrOR/skills-review-pull-requests](https://github.com/SamyrOR/skills-review-pull-requests)
+5. 🎉 Merged PR [#6](https://github.com/SamyrOR/skills-secure-repository-supply-chain/pull/6) in [SamyrOR/skills-secure-repository-supply-chain](https://github.com/SamyrOR/skills-secure-repository-supply-chain)
 <!--RECENT_ACTIVITY:end-->
 
 ---
