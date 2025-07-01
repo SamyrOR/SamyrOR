@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/SamyrOR/skills-connect-the-dots/issues/2) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
-2. 🎉 Merged PR [#3](https://github.com/SamyrOR/skills-connect-the-dots/pull/3) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
-3. 💪 Opened PR [#3](https://github.com/SamyrOR/skills-connect-the-dots/pull/3) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
-4. ✔️ Closed issue [#1](https://github.com/SamyrOR/skills-connect-the-dots/issues/1) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
-5. 📔 Created new repository [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
+1. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. ⭐ Starred [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir)
+3. ✔️ Closed issue [#2](https://github.com/SamyrOR/skills-connect-the-dots/issues/2) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
+4. 🎉 Merged PR [#3](https://github.com/SamyrOR/skills-connect-the-dots/pull/3) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
+5. 💪 Opened PR [#3](https://github.com/SamyrOR/skills-connect-the-dots/pull/3) in [SamyrOR/skills-connect-the-dots](https://github.com/SamyrOR/skills-connect-the-dots)
 <!--RECENT_ACTIVITY:end-->
 
 ---
