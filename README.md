@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/pos-microfront-with-iframes](https://github.com/SamyrOR/pos-microfront-with-iframes)
-2. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
-3. ⭐ Starred [microservices-patterns/ftgo-application](https://github.com/microservices-patterns/ftgo-application)
-4. ⭐ Starred [dotnet/eShop](https://github.com/dotnet/eShop)
-5. ⭐ Starred [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+1. ⭐ Starred [Druidman/minecraft-clone-opengl](https://github.com/Druidman/minecraft-clone-opengl)
+2. 📔 Created new repository [SamyrOR/pos-microfront-with-iframes](https://github.com/SamyrOR/pos-microfront-with-iframes)
+3. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
+4. ⭐ Starred [microservices-patterns/ftgo-application](https://github.com/microservices-patterns/ftgo-application)
+5. ⭐ Starred [dotnet/eShop](https://github.com/dotnet/eShop)
 <!--RECENT_ACTIVITY:end-->
 
 ---
