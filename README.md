@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Druidman/minecraft-clone-opengl](https://github.com/Druidman/minecraft-clone-opengl)
-2. 📔 Created new repository [SamyrOR/pos-microfront-with-iframes](https://github.com/SamyrOR/pos-microfront-with-iframes)
-3. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
-4. ⭐ Starred [microservices-patterns/ftgo-application](https://github.com/microservices-patterns/ftgo-application)
-5. ⭐ Starred [dotnet/eShop](https://github.com/dotnet/eShop)
+1. 🔱 Forked [SamyrOR/arquitetura-software](https://github.com/SamyrOR/arquitetura-software) from [marco-mendes/arquitetura-software](https://github.com/marco-mendes/arquitetura-software)
+2. ⭐ Starred [Druidman/minecraft-clone-opengl](https://github.com/Druidman/minecraft-clone-opengl)
+3. 📔 Created new repository [SamyrOR/pos-microfront-with-iframes](https://github.com/SamyrOR/pos-microfront-with-iframes)
+4. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
+5. ⭐ Starred [microservices-patterns/ftgo-application](https://github.com/microservices-patterns/ftgo-application)
 <!--RECENT_ACTIVITY:end-->
 
 ---
