@@ -82,24 +82,32 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C039%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C045%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     5 hrs 1 min         ████████████████████████░   96.02 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minha_frota              4 hrs 58 mins       ████████████████████████░   94.97 % 
+ana_base                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+flutter_design_system    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+stable                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+ana_admissao_colaboradore0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/09/2025 02:22:26 UTC
+ Last Updated on 30/09/2025 02:17:29 UTC
 <!--END_SECTION:waka-->
