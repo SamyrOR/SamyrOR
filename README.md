@@ -72,7 +72,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [SamyrOR/cadastro_pessoa_rest-pos](https://github.com/SamyrOR/cadastro_pessoa_rest-pos)
+1. ⭐ Starred [xvanausloos/hdp_data_tutorials](https://github.com/xvanausloos/hdp_data_tutorials)
 2. ⭐ Starred [Druidman/minecraft-clone-opengl](https://github.com/Druidman/minecraft-clone-opengl)
 3. 📔 Created new repository [SamyrOR/pos-microfront-with-iframes](https://github.com/SamyrOR/pos-microfront-with-iframes)
 4. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
