@@ -88,29 +88,29 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 34 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
-Dart                     1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   31.99 % 
-TypeScript               1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+YAML                     1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.13 % 
+Dart                     1 hr 4 mins         ████████░░░░░░░░░░░░░░░░░   30.87 % 
+TypeScript               54 mins             ███████░░░░░░░░░░░░░░░░░░   26.30 % 
+XML                      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 16 mins       ██████████████████░░░░░░░   71.91 % 
-Neovim                   1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+VS Code                  2 hrs 30 mins       ██████████████████░░░░░░░   72.75 % 
+Neovim                   56 mins             ███████░░░░░░░░░░░░░░░░░░   27.25 % 
 
 🐱‍💻 Projects: 
-ana_base                 2 hrs 38 mins       ███████████████░░░░░░░░░░   58.07 % 
-meutrabalho-app          1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.53 % 
-ana_admissao_colaboradore33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-meu_trabalho_mfe         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-flutter_core             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+ana_base                 1 hr 54 mins        ██████████████░░░░░░░░░░░   55.33 % 
+meutrabalho-app          54 mins             ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+ana_admissao_colaboradore33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+meu_trabalho_mfe         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 💻 Operating System: 
-Windows                  2 hrs 37 mins       ██████████████░░░░░░░░░░░   57.60 % 
-WSL                      1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
-Mac                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Windows                  1 hr 51 mins        █████████████░░░░░░░░░░░░   53.95 % 
+WSL                      56 mins             ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Mac                      38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
 ```
 
 
- Last Updated on 17/02/2026 03:31:52 UTC
+ Last Updated on 18/02/2026 03:33:58 UTC
 <!--END_SECTION:waka-->
