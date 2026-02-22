@@ -82,30 +82,31 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C238%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C239%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 37 mins       ███████████████████████░░   92.29 % 
-Dart                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               3 hrs 33 mins       ██████████████████████░░░   86.27 % 
+Dart                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 43 mins       ████████████████████████░   95.05 % 
-VS Code                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Neovim                   3 hrs 46 mins       ███████████████████████░░   91.59 % 
+VS Code                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🐱‍💻 Projects: 
-meutrabalho-app          3 hrs 43 mins       ████████████████████████░   95.05 % 
-ana_base                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+meutrabalho-app          3 hrs 46 mins       ███████████████████████░░   91.59 % 
+ana_base                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-WSL                      3 hrs 43 mins       ████████████████████████░   95.05 % 
-Windows                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+WSL                      3 hrs 46 mins       ███████████████████████░░   91.59 % 
+Windows                  20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 
- Last Updated on 21/02/2026 03:18:20 UTC
+ Last Updated on 22/02/2026 03:32:45 UTC
 <!--END_SECTION:waka-->
