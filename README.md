@@ -82,31 +82,31 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C241%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C242%20hrs%208%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 10 mins       █████████████████░░░░░░░░   69.20 % 
-Markdown                 1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-Dart                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+TypeScript               4 hrs 15 mins       ████████████████░░░░░░░░░   65.11 % 
+Markdown                 1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Dart                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 25 mins       ██████████████████░░░░░░░   73.58 % 
-VS Code                  1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Neovim                   4 hrs 57 mins       ███████████████████░░░░░░   75.71 % 
+VS Code                  1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
 
 🐱‍💻 Projects: 
-meutrabalho-app          4 hrs 25 mins       ██████████████████░░░░░░░   73.58 % 
-ana_base                 1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+meutrabalho-app          4 hrs 57 mins       ███████████████████░░░░░░   75.71 % 
+ana_base                 1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
 
 💻 Operating System: 
-WSL                      4 hrs 25 mins       ██████████████████░░░░░░░   73.58 % 
-Windows                  1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+WSL                      4 hrs 57 mins       ███████████████████░░░░░░   75.71 % 
+Windows                  1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
 ```
 
 
- Last Updated on 25/02/2026 03:32:09 UTC
+ Last Updated on 26/02/2026 03:29:19 UTC
 <!--END_SECTION:waka-->
