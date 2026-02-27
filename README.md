@@ -72,7 +72,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [OWASP/Top10](https://github.com/OWASP/Top10)
+1. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
 2. 🔱 Forked [SamyrOR/docker-tutorials](https://github.com/SamyrOR/docker-tutorials) from [SamyrOR/docker-tutorials](https://github.com/SamyrOR/docker-tutorials)
 3. ⭐ Starred [zoedsoupe/exlings](https://github.com/zoedsoupe/exlings)
 4. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
