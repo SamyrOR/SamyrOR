@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)
-2. 🔱 Forked [SamyrOR/docker-tutorials](https://github.com/SamyrOR/docker-tutorials) from [SamyrOR/docker-tutorials](https://github.com/SamyrOR/docker-tutorials)
-3. ⭐ Starred [zoedsoupe/exlings](https://github.com/zoedsoupe/exlings)
-4. 📔 Created new repository [SamyrOR/pos-movies-modular](https://github.com/SamyrOR/pos-movies-modular)
-5. ⭐ Starred [microservices-patterns/ftgo-application](https://github.com/microservices-patterns/ftgo-application)
+1. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+2. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+3. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
+4. ⭐ Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 <!--RECENT_ACTIVITY:end-->
 
 ---
