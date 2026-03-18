@@ -88,23 +88,22 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     3 hrs 14 mins       ██████████████████░░░░░░░   73.17 % 
-YAML                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Swift                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Groovy                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Dart                     3 hrs 20 mins       ████████████████████░░░░░   78.10 % 
+YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Swift                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Groovy                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 4 hrs 26 mins       █████████████████████████   99.98 % 
-ana_admissao_colaboradore0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+ana_base                 4 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2026 03:29:46 UTC
+ Last Updated on 18/03/2026 03:36:08 UTC
 <!--END_SECTION:waka-->
