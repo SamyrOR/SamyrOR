@@ -82,33 +82,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C267%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C269%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     3 hrs 39 mins       ████████████████░░░░░░░░░   65.25 % 
-TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-YAML                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Dart                     5 hrs 11 mins       ██████████████████░░░░░░░   70.06 % 
+YAML                     1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 33 mins       ████████████████░░░░░░░░░   63.69 % 
-meutrabalho-app          58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-ana_admissao_colaboradore57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-3.38.10                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-samyrribeiro             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+ana_base                 5 hrs 8 mins        █████████████████░░░░░░░░   69.41 % 
+ana_admissao_colaboradore1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+meutrabalho-app          58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+3.38.10                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+samyrribeiro             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       ███████████████████░░░░░░   75.24 % 
-Mac                      1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+Windows                  6 hrs               ████████████████████░░░░░   81.13 % 
+Mac                      1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 ```
 
 
- Last Updated on 21/03/2026 03:16:42 UTC
+ Last Updated on 22/03/2026 03:35:22 UTC
 <!--END_SECTION:waka-->
