@@ -82,29 +82,29 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C281%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C282%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     8 hrs 56 mins       █████████████████████░░░░   83.12 % 
-YAML                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Dart                     6 hrs 45 mins       ███████████████████░░░░░░   74.78 % 
+YAML                     1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 10 hrs 40 mins      █████████████████████████   99.13 % 
-ana_admissao_colaboradore5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+ana_base                 8 hrs 51 mins       ████████████████████████░   97.97 % 
+ana_admissao_colaboradore11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
 
 💻 Operating System: 
-Windows                  10 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/04/2026 03:58:15 UTC
+ Last Updated on 02/04/2026 03:39:45 UTC
 <!--END_SECTION:waka-->
