@@ -82,29 +82,30 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C282%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C283%20hrs%2024%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     6 hrs 45 mins       ███████████████████░░░░░░   74.78 % 
-YAML                     1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
-HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Dart                     5 hrs 31 mins       █████████████████░░░░░░░░   67.41 % 
+YAML                     2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+HTML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  8 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 8 hrs 51 mins       ████████████████████████░   97.97 % 
-ana_admissao_colaboradore11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+ana_base                 7 hrs 42 mins       ████████████████████████░   94.20 % 
+ana_admissao_colaboradore28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 💻 Operating System: 
-Windows                  9 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 7 mins        █████████████████████████   99.22 % 
+Mac                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
- Last Updated on 02/04/2026 03:39:45 UTC
+ Last Updated on 03/04/2026 03:41:45 UTC
 <!--END_SECTION:waka-->
