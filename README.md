@@ -82,33 +82,35 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C293%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C295%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     4 hrs 43 mins       █████████████░░░░░░░░░░░░   52.65 % 
-Other                    2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
-YAML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Groovy                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Dart                     4 hrs 43 mins       ████████████░░░░░░░░░░░░░   46.37 % 
+Other                    3 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.78 % 
+YAML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Lua                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Groovy                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 58 mins       ██████████████████████░░░   88.07 % 
+Neovim                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 🐱‍💻 Projects: 
-ana_base                 6 hrs 9 mins        █████████████████░░░░░░░░   68.64 % 
-ana_admissao_colaboradore2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-meu_trabalho_mfe         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-flutter_design_system    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-3.38.4                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+ana_base                 6 hrs 9 mins        ███████████████░░░░░░░░░░   60.45 % 
+ana_admissao_colaboradore2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+nvim                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+meu_trabalho_mfe         11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       ███████████████░░░░░░░░░░   61.15 % 
-Mac                      3 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   38.85 % 
+Windows                  5 hrs 29 mins       █████████████░░░░░░░░░░░░   53.85 % 
+Mac                      3 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   34.21 % 
+WSL                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 ```
 
 
- Last Updated on 13/04/2026 04:16:32 UTC
+ Last Updated on 14/04/2026 03:57:49 UTC
 <!--END_SECTION:waka-->
