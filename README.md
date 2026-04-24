@@ -82,33 +82,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C302%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C306%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Bash                     1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-YAML                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-Dart                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-Other                    36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+TypeScript               1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
+Other                    1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+Bash                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+CSS                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+YAML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 1 hr 31 mins        ███████████░░░░░░░░░░░░░░   42.11 % 
-samyrribeiro             1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-meu_trabalho_mfe         26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-ana_admissao_colaboradore20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-meutrabalho-app          15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+meutrabalho-app          3 hrs 57 mins       █████████████░░░░░░░░░░░░   52.19 % 
+ana_base                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+samyrribeiro             1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+meu_trabalho_mfe         26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+ana_admissao_colaboradore20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        ██████████████░░░░░░░░░░░   57.68 % 
-Windows                  1 hr 32 mins        ███████████░░░░░░░░░░░░░░   42.32 % 
+Mac                      6 hrs 3 mins        ████████████████████░░░░░   79.75 % 
+Windows                  1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 ```
 
 
- Last Updated on 23/04/2026 04:10:23 UTC
+ Last Updated on 24/04/2026 04:14:10 UTC
 <!--END_SECTION:waka-->
