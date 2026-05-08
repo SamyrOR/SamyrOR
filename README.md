@@ -82,33 +82,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C322%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C326%20hrs%2035%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   35.60 % 
-Dart                     1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-Other                    1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Dart                     2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.29 % 
+TypeScript               2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Other                    1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-meutrabalho-app          2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.15 % 
-ana_base                 2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
-ana_admissao_colaboradore1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-essa-minha-atividade-mens3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-fa-a-um-resumo-da-minha  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+ana_base                 4 hrs 10 mins       ██████████████░░░░░░░░░░░   55.02 % 
+meutrabalho-app          2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.92 % 
+meu_trabalho_mfe         13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+ana_admissao_colaboradore12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+flutter_design_system    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 💻 Operating System: 
-Mac                      6 hrs 22 mins       ████████████████████████░   95.42 % 
-Windows                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Windows                  4 hrs 17 mins       ██████████████░░░░░░░░░░░   56.55 % 
+Mac                      3 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.45 % 
 ```
 
 
- Last Updated on 07/05/2026 04:30:56 UTC
+ Last Updated on 08/05/2026 04:12:59 UTC
 <!--END_SECTION:waka-->
