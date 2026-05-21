@@ -88,25 +88,25 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     7 hrs 41 mins       █████████████████░░░░░░░░   66.30 % 
-YAML                     2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Other                    1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Dart                     5 hrs 27 mins       ███████████████░░░░░░░░░░   61.68 % 
+YAML                     2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 36 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 6 hrs 23 mins       ██████████████░░░░░░░░░░░   55.17 % 
-ana_admissao_colaboradore3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
-meu_trabalho_mfe         1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-controllers              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-firebase_performance     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+ana_base                 4 hrs 46 mins       █████████████░░░░░░░░░░░░   53.79 % 
+ana_admissao_colaboradore2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+meu_trabalho_mfe         1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+controllers              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+firebase_performance     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 💻 Operating System: 
-Windows                  11 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/05/2026 04:58:33 UTC
+ Last Updated on 21/05/2026 05:04:22 UTC
 <!--END_SECTION:waka-->
