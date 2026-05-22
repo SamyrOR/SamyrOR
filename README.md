@@ -82,31 +82,28 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C352%20hrs%209%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 27 mins       ███████████████░░░░░░░░░░   61.68 % 
-YAML                     2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Dart                     3 hrs 22 mins       ██████████████████░░░░░░░   71.24 % 
+YAML                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 4 hrs 46 mins       █████████████░░░░░░░░░░░░   53.79 % 
-ana_admissao_colaboradore2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-meu_trabalho_mfe         1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-controllers              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-firebase_performance     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+ana_base                 2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.17 % 
+ana_admissao_colaboradore2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.05 % 
+meu_trabalho_mfe         21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+flutter_design_system    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  8 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/05/2026 05:04:22 UTC
+ Last Updated on 22/05/2026 04:55:47 UTC
 <!--END_SECTION:waka-->
