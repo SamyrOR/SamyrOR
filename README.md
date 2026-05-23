@@ -82,28 +82,6 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Dart                     3 hrs 22 mins       ██████████████████░░░░░░░   71.24 % 
-YAML                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-TOML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 44 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-ana_base                 2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.17 % 
-ana_admissao_colaboradore2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.05 % 
-meu_trabalho_mfe         21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-flutter_design_system    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-
-💻 Operating System: 
-Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 04:55:47 UTC
+ Last Updated on 23/05/2026 04:33:27 UTC
 <!--END_SECTION:waka-->
