@@ -82,6 +82,31 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C356%20hrs%2013%20mins-blue?style=flat)
 
- Last Updated on 23/05/2026 04:33:27 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     2 hrs 59 mins       ██████████████████░░░░░░░   73.25 % 
+YAML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ana_base                 3 hrs 18 mins       ████████████████████░░░░░   81.16 % 
+flutter_design_system    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+meu_trabalho_mfe         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+3.38.10                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/05/2026 04:58:10 UTC
 <!--END_SECTION:waka-->
