@@ -82,31 +82,32 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C356%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C357%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 59 mins       ██████████████████░░░░░░░   73.25 % 
-YAML                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Swift                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Dart                     3 hrs 26 mins       ████████████████░░░░░░░░░   64.55 % 
+YAML                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 18 mins       ████████████████████░░░░░   81.16 % 
-flutter_design_system    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-meu_trabalho_mfe         15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+ana_base                 3 hrs 57 mins       ███████████████████░░░░░░   74.20 % 
+ana_admissao_colaboradore36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+flutter_design_system    30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+meu_trabalho_mfe         15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 3.38.10                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 04:57:19 UTC
+ Last Updated on 27/05/2026 05:10:22 UTC
 <!--END_SECTION:waka-->
