@@ -88,25 +88,24 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 31 mins       ██████████████████████░░░   86.49 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Dart                     4 hrs 28 mins       █████████████████████░░░░   84.50 % 
+YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 46 mins       ███████████████░░░░░░░░░░   59.16 % 
-ana_admissao_colaboradore2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.38 % 
-admission                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-meu_trabalho_mfe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-flutter_design_system    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+ana_base                 2 hrs 45 mins       █████████████░░░░░░░░░░░░   51.94 % 
+ana_admissao_colaboradore2 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.52 % 
+admission                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+meu_trabalho_mfe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  6 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 05:10:28 UTC
+ Last Updated on 06/06/2026 04:49:40 UTC
 <!--END_SECTION:waka-->
