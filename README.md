@@ -82,30 +82,30 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C381%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C384%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     4 hrs 28 mins       █████████████████████░░░░   84.50 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Dart                     5 hrs 45 mins       ████████████████████░░░░░   81.90 % 
+Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_base                 2 hrs 45 mins       █████████████░░░░░░░░░░░░   51.94 % 
-ana_admissao_colaboradore2 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.52 % 
-admission                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-meu_trabalho_mfe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+ana_admissao_colaboradore4 hrs 29 mins       ████████████████░░░░░░░░░   63.84 % 
+ana_base                 2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.00 % 
+admission                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+meu_trabalho_mfe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  5 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/06/2026 04:49:40 UTC
+ Last Updated on 08/06/2026 05:24:55 UTC
 <!--END_SECTION:waka-->
