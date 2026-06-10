@@ -82,30 +82,31 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C384%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C386%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 45 mins       ████████████████████░░░░░   81.90 % 
-Other                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-YAML                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Dart                     7 hrs 49 mins       █████████████████████░░░░   82.39 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_admissao_colaboradore4 hrs 29 mins       ████████████████░░░░░░░░░   63.84 % 
-ana_base                 2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.00 % 
-admission                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-meu_trabalho_mfe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+ana_admissao_colaboradore6 hrs 33 mins       █████████████████░░░░░░░░   69.12 % 
+ana_base                 2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.01 % 
+admission                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+meu_trabalho_mfe         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  7 hrs 1 min         ███████████████████░░░░░░   74.05 % 
+Mac                      2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
 ```
 
 
- Last Updated on 09/06/2026 04:59:07 UTC
+ Last Updated on 10/06/2026 05:10:51 UTC
 <!--END_SECTION:waka-->
