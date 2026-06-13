@@ -82,28 +82,29 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C390%20hrs%2048%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 53 mins       ██████████████████░░░░░░░   71.34 % 
-YAML                     1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Dart                     6 hrs 41 mins       ██████████████████░░░░░░░   71.64 % 
+YAML                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 15 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_admissao_colaboradore5 hrs 24 mins       ████████████████░░░░░░░░░   65.44 % 
-ana_base                 2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   34.56 % 
+ana_admissao_colaboradore5 hrs 24 mins       ██████████████░░░░░░░░░░░   57.81 % 
+ana_base                 3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
+Primary: ana_base        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 💻 Operating System: 
-Windows                  5 hrs 47 mins       ██████████████████░░░░░░░   70.16 % 
-Mac                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+Windows                  6 hrs 53 mins       ██████████████████░░░░░░░   73.64 % 
+Mac                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
 ```
 
 
- Last Updated on 12/06/2026 05:26:32 UTC
+ Last Updated on 13/06/2026 05:15:57 UTC
 <!--END_SECTION:waka-->
