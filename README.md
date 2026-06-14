@@ -82,29 +82,31 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C390%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C395%20hrs%2029%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     6 hrs 41 mins       ██████████████████░░░░░░░   71.64 % 
-YAML                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Other                    1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Dart                     7 hrs 9 mins        ████████████████░░░░░░░░░   64.95 % 
+YAML                     2 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
+Other                    1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ana_admissao_colaboradore5 hrs 24 mins       ██████████████░░░░░░░░░░░   57.81 % 
-ana_base                 3 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
-Primary: ana_base        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+ana_admissao_colaboradore5 hrs 37 mins       █████████████░░░░░░░░░░░░   51.11 % 
+ana_base                 5 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.04 % 
+Primary: ana_base        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+ana_admissao_colaboradore5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  6 hrs 53 mins       ██████████████████░░░░░░░   73.64 % 
-Mac                      2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Windows                  8 hrs 33 mins       ███████████████████░░░░░░   77.64 % 
+Mac                      2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
 ```
 
 
- Last Updated on 13/06/2026 05:15:57 UTC
+ Last Updated on 14/06/2026 05:25:51 UTC
 <!--END_SECTION:waka-->
