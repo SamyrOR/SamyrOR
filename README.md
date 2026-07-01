@@ -82,28 +82,30 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C410%20hrs%2043%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 13 mins       ████████████░░░░░░░░░░░░░   46.07 % 
-YAML                     56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-Other                    56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Dart                     3 hrs 3 mins        █████████████░░░░░░░░░░░░   51.16 % 
+YAML                     1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Other                    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 5 mins        █████████████████████░░░░   85.26 % 
+Claude Code              52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 
 🐱‍💻 Projects: 
-ana_base                 2 hrs 49 mins       ███████████████░░░░░░░░░░   58.29 % 
-ana_admissao_colaboradore2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.71 % 
+ana_base                 3 hrs 8 mins        █████████████░░░░░░░░░░░░   52.50 % 
+ana_admissao_colaboradore2 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.47 % 
+flutter_design_system    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/06/2026 04:58:10 UTC
+ Last Updated on 01/07/2026 05:16:43 UTC
 <!--END_SECTION:waka-->
