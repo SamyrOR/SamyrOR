@@ -72,7 +72,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 2. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
 3. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 4. ⭐ Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
