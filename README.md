@@ -82,31 +82,35 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C415%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C418%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     2 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.51 % 
-Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
-CocoaPods                24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Dart                     2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Markdown                 2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+Python                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+TypeScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+SCSS                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       ████████████████░░░░░░░░░   64.71 % 
-Claude Code              1 hr 45 mins        █████████░░░░░░░░░░░░░░░░   35.29 % 
+VS Code                  3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.38 % 
+Neovim                   3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.83 % 
+Claude Code              1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
 
 🐱‍💻 Projects: 
-ana_base                 4 hrs 39 mins       ███████████████████████░░   93.36 % 
-meu_trabalho_mfe         12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-ana_admissao_colaboradore7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+ana_base                 4 hrs 59 mins       ██████████████░░░░░░░░░░░   57.37 % 
+MeuRH-frontend           1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+meutrabalho-app          53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+genai-rag                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+nvim                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 💻 Operating System: 
-Windows                  4 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       ███████████████░░░░░░░░░░   61.17 % 
+WSL                      3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.83 % 
 ```
 
 
- Last Updated on 09/07/2026 04:44:16 UTC
+ Last Updated on 10/07/2026 04:44:17 UTC
 <!--END_SECTION:waka-->
