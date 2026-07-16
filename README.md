@@ -72,8 +72,8 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-2. ⭐ Starred [karpathy/nanochat](https://github.com/karpathy/nanochat)
+1. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+2. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 3. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
 4. ⭐ Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
 5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
