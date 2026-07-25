@@ -82,34 +82,6 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Dart                     7 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.26 % 
-Markdown                 3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-YAML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-TypeScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 44 mins      ██████████████████░░░░░░░   72.47 % 
-Neovim                   3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Claude Code              1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-
-🐱‍💻 Projects: 
-ana_base                 12 hrs 31 mins      ██████████████████░░░░░░░   71.28 % 
-meutrabalho-app          1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-meu_trabalho_mfe         1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-samyrribeiro             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-PontoMobile              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-
-💻 Operating System: 
-Windows                  12 hrs 38 mins      ██████████████████░░░░░░░   71.92 % 
-WSL                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Mac                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-```
-
-
- Last Updated on 24/07/2026 04:09:07 UTC
+ Last Updated on 25/07/2026 03:58:14 UTC
 <!--END_SECTION:waka-->
