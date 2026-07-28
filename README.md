@@ -82,7 +82,9 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C466%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C372%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -111,6 +113,30 @@ Windows                  8 hrs 15 mins       ███████████�
 WSL                      5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.05 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 04:31:42 UTC
+```text
+⏱ AI Coding Time: 12 hrs 1 min (88.68%)
+
+✍️ 31,348 lines written by AI, 73 lines written by hand (99.77% AI-written)
+
+🔤 221,328,987 Input Tokens, 476,994 Output Tokens
+
+💵 $836.14 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 98 AI Prompts
+
+Claude                   27,640 lines        █████████████████████░░░░   83.83 % 
+Fable                    4,480 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Opus                     853 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.77% of written lines came from AI
+📄 Detailed Prompter — average 604 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 0.41% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 03:55:35 UTC
 <!--END_SECTION:waka-->
