@@ -72,10 +72,10 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-2. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-3. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish)
-4. ⭐ Starred [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)
+1. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+2. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)
+3. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+4. ⭐ Starred [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
 5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
 <!--RECENT_ACTIVITY:end-->
 
