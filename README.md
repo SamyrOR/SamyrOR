@@ -72,11 +72,11 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ### ⚡ Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#4](undefined) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
-2. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-3. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)
-4. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
-5. ⭐ Starred [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+1. 💪 Opened PR [#5](undefined) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+2. 💪 Opened PR [#4](undefined) in [SamyrOR/personal-blog](https://github.com/SamyrOR/personal-blog)
+3. 💪 Opened PR [#4](undefined) in [SamyrOR/personal-website](https://github.com/SamyrOR/personal-website)
+4. ⭐ Starred [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+5. ⭐ Starred [dokku/dokku](https://github.com/dokku/dokku)
 <!--RECENT_ACTIVITY:end-->
 
 ---
