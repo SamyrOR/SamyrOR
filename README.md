@@ -90,53 +90,53 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Markdown                 2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Dart                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-JSON                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+TypeScript               4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Markdown                 2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Dart                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+JSON                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 10 mins       ██████████████████░░░░░░░   71.90 % 
-Claude Code              2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-VS Code                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Neovim                   10 hrs 25 mins      ██████████████████░░░░░░░   70.59 % 
+Claude Code              2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🐱‍💻 Projects: 
-meutrabalho-app          4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
-personal-website         3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-ana_base                 3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
-meu-trabalho             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-PontoMobile              18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+meutrabalho-app          4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
+personal-website         4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+ana_base                 4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+personal-blog            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 💻 Operating System: 
-WSL                      9 hrs 10 mins       ██████████████████░░░░░░░   71.90 % 
-Windows                  3 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+WSL                      10 hrs 25 mins      ██████████████████░░░░░░░   70.59 % 
+Windows                  4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 7 mins (63.73%)
+⏱ AI Coding Time: 9 hrs 10 mins (62.14%)
 
-✍️ 23,020 lines written by AI, 190 lines written by hand (99.18% AI-written)
+✍️ 24,667 lines written by AI, 355 lines written by hand (98.58% AI-written)
 
-🔤 32,724,578 Input Tokens, 205,970 Output Tokens
+🔤 33,120,842 Input Tokens, 308,265 Output Tokens
 
-💵 $337.21 Estimated AI Cost This Week
+💵 $355.02 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 16 AI Prompts
+🧠 7 AI Sessions, 28 AI Prompts
 
-Claude                   22,201 lines        ████████████████████████░   95.07 % 
-Fable                    1,152 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Claude                   24,518 lines        ████████████████████████░   95.51 % 
+Fable                    1,152 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.18% of written lines came from AI
-📄 Detailed Prompter — average 1,178 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.26% of changed lines were hand-edited
+🤖 AI-Driven — 98.58% of written lines came from AI
+📄 Detailed Prompter — average 1,017 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/08/2026 02:50:58 UTC
+ Last Updated on 09/08/2026 02:58:38 UTC
 <!--END_SECTION:waka-->
