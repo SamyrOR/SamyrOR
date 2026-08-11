@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C399%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C400%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2036%20mins-blue?style=flat)
 
@@ -90,33 +90,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Markdown                 2 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-Dart                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-JSON                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Other                    1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+JSON                     3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Dart                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-Neovim                   10 hrs 25 mins      ██████████████████░░░░░░░   70.59 % 
-Claude Code              2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Neovim                   11 hrs 25 mins      ██████████████████░░░░░░░   72.46 % 
+Claude Code              2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🐱‍💻 Projects: 
-meutrabalho-app          4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.51 % 
-personal-website         4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-ana_base                 4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-personal-blog            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Unknown Project          17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+personal-website         5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.27 % 
+meutrabalho-app          4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
+ana_base                 4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+personal-blog            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-WSL                      10 hrs 25 mins      ██████████████████░░░░░░░   70.59 % 
-Windows                  4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+WSL                      11 hrs 25 mins      ██████████████████░░░░░░░   72.46 % 
+Windows                  4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 10 mins (62.14%)
+⏱ AI Coding Time: 9 hrs 10 mins (58.2%)
 
 ✍️ 24,667 lines written by AI, 355 lines written by hand (98.58% AI-written)
 
@@ -134,9 +134,9 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🤖 AI-Driven — 98.58% of written lines came from AI
 📄 Detailed Prompter — average 1,017 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.77% of changed lines were hand-edited
+🚀 High AI Trust — 1.76% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 03:07:47 UTC
+ Last Updated on 11/08/2026 03:00:53 UTC
 <!--END_SECTION:waka-->
