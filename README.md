@@ -82,61 +82,61 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C400%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C403%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
-JSON                     3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Dart                     2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Other                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+TypeScript               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Markdown                 3 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+JSON                     2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Dart                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 25 mins      ██████████████████░░░░░░░   72.46 % 
-Claude Code              2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-VS Code                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Neovim                   11 hrs 42 mins      ███████████████████░░░░░░   75.64 % 
+Claude Code              2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+VS Code                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
 
 🐱‍💻 Projects: 
-personal-website         5 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.27 % 
-meutrabalho-app          4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.39 % 
-ana_base                 4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-personal-blog            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+personal-website         6 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.83 % 
+meutrabalho-app          4 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+ana_base                 3 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+personal-blog            22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Unknown Project          17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-WSL                      11 hrs 25 mins      ██████████████████░░░░░░░   72.46 % 
-Windows                  4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+WSL                      11 hrs 42 mins      ███████████████████░░░░░░   75.64 % 
+Windows                  3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 10 mins (58.2%)
+⏱ AI Coding Time: 7 hrs 40 mins (49.53%)
 
-✍️ 24,667 lines written by AI, 355 lines written by hand (98.58% AI-written)
+✍️ 21,505 lines written by AI, 644 lines written by hand (97.09% AI-written)
 
-🔤 33,120,842 Input Tokens, 308,265 Output Tokens
+🔤 11,981,970 Input Tokens, 258,112 Output Tokens
 
-💵 $355.02 Estimated AI Cost This Week
+💵 $150.28 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 28 AI Prompts
+🧠 7 AI Sessions, 30 AI Prompts
 
-Claude                   24,518 lines        ████████████████████████░   95.51 % 
-Fable                    1,152 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Claude                   22,321 lines        █████████████████████████   99.27 % 
+Fable                    164 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.58% of written lines came from AI
-📄 Detailed Prompter — average 1,017 characters per prompt
+🤖 AI-Driven — 97.09% of written lines came from AI
+📝 Concise Prompter — average 458 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.76% of changed lines were hand-edited
+🚀 High AI Trust — 5.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 03:00:53 UTC
+ Last Updated on 12/08/2026 03:19:01 UTC
 <!--END_SECTION:waka-->
