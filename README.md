@@ -90,53 +90,52 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Elixir                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-Dart                     3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-TypeScript               2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-JSON                     2 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Elixir                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Dart                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
 
 🔥 Editors: 
-Neovim                   13 hrs 26 mins      ████████████████████░░░░░   78.06 % 
-Claude Code              1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-VS Code                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Neovim                   12 hrs 3 mins       ████████████████████░░░░░   79.96 % 
+VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 
 🐱‍💻 Projects: 
-personal-website         5 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.34 % 
-ana_base                 3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-meutrabalho-app          2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-exlings                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-exoplanets_api           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+personal-website         4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+ana_base                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+exlings                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+exoplanets_api           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+minha-frota              1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
 
 💻 Operating System: 
-WSL                      13 hrs 26 mins      ████████████████████░░░░░   78.06 % 
-Windows                  3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+WSL                      12 hrs 3 mins       ████████████████████░░░░░   79.96 % 
+Windows                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 48 mins (33.75%)
+⏱ AI Coding Time: 3 hrs 13 mins (21.4%)
 
-✍️ 17,748 lines written by AI, 805 lines written by hand (95.66% AI-written)
+✍️ 10,030 lines written by AI, 698 lines written by hand (93.49% AI-written)
 
-🔤 2,158,051 Input Tokens, 307,159 Output Tokens
+🔤 1,761,787 Input Tokens, 204,864 Output Tokens
 
-💵 $74.94 Estimated AI Cost This Week
+💵 $57.13 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 35 AI Prompts
+🧠 5 AI Sessions, 23 AI Prompts
 
-Claude                   18,120 lines        ████████████████████████░   95.24 % 
-Fable                    905 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude                   9,665 lines         ███████████████████████░░   91.44 % 
+Fable                    905 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.66% of written lines came from AI
-📄 Detailed Prompter — average 821 characters per prompt
+🤖 AI-Driven — 93.49% of written lines came from AI
+📄 Detailed Prompter — average 830 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.15% of changed lines were hand-edited
+🚀 High AI Trust — 11.39% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 02:09:57 UTC
+ Last Updated on 16/08/2026 02:17:40 UTC
 <!--END_SECTION:waka-->
