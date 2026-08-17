@@ -82,43 +82,43 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C412%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C414%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-169%20hrs%2050%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Elixir                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Dart                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Elixir                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
+Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+Dart                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 3 mins       ████████████████████░░░░░   79.96 % 
-VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Neovim                   12 hrs 11 mins      ████████████████████░░░░░   80.12 % 
+VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 🐱‍💻 Projects: 
-personal-website         4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-ana_base                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-exlings                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-exoplanets_api           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-minha-frota              1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+personal-website         4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+ana_base                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+exlings                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+exoplanets_api           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+minha-frota              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 
 💻 Operating System: 
-WSL                      12 hrs 3 mins       ████████████████████░░░░░   79.96 % 
-Windows                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+WSL                      12 hrs 11 mins      ████████████████████░░░░░   80.12 % 
+Windows                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (21.4%)
+⏱ AI Coding Time: 3 hrs 13 mins (21.22%)
 
-✍️ 10,030 lines written by AI, 698 lines written by hand (93.49% AI-written)
+✍️ 10,030 lines written by AI, 701 lines written by hand (93.47% AI-written)
 
 🔤 1,761,787 Input Tokens, 204,864 Output Tokens
 
@@ -130,12 +130,12 @@ Claude                   9,665 lines         ███████████�
 Fable                    905 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.49% of written lines came from AI
+🤖 AI-Driven — 93.47% of written lines came from AI
 📄 Detailed Prompter — average 830 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 11.39% of changed lines were hand-edited
+🚀 High AI Trust — 11.41% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 02:17:40 UTC
+ Last Updated on 17/08/2026 02:15:49 UTC
 <!--END_SECTION:waka-->
