@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C414%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C414%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2014%20mins-blue?style=flat)
 
@@ -90,33 +90,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Elixir                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-Markdown                 2 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-Dart                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-JSON                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Elixir                   4 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Markdown                 3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+Dart                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+TypeScript               1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Lua                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 🔥 Editors: 
-Neovim                   12 hrs 11 mins      ████████████████████░░░░░   80.12 % 
-VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Neovim                   11 hrs 4 mins       ████████████████████░░░░░   78.55 % 
+VS Code                  1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Claude Code              1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 
 🐱‍💻 Projects: 
-personal-website         4 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
-ana_base                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
-exlings                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-exoplanets_api           1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-minha-frota              1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+ana_base                 2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+personal-website         2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+exlings                  2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+minha-frota              1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+exoplanets_api           1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 
 💻 Operating System: 
-WSL                      12 hrs 11 mins      ████████████████████░░░░░   80.12 % 
-Windows                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+WSL                      11 hrs 4 mins       ████████████████████░░░░░   78.55 % 
+Windows                  3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 13 mins (21.22%)
+⏱ AI Coding Time: 3 hrs 13 mins (22.9%)
 
 ✍️ 10,030 lines written by AI, 701 lines written by hand (93.47% AI-written)
 
@@ -137,5 +137,5 @@ Fable                    905 lines           ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2026 02:15:49 UTC
+ Last Updated on 18/08/2026 02:11:14 UTC
 <!--END_SECTION:waka-->
