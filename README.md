@@ -82,61 +82,61 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C417%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C419%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
-Dart                     2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-Elixir                   1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-YAML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Makefile                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Markdown                 4 hrs 4 mins        ███████████░░░░░░░░░░░░░░   43.10 % 
+Elixir                   1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
+Dart                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+YAML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Java Properties          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 42 mins       ████████████████░░░░░░░░░   62.59 % 
-Claude Code              2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-VS Code                  1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Neovim                   5 hrs 51 mins       ███████████████░░░░░░░░░░   61.85 % 
+Claude Code              2 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.68 % 
+VS Code                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   36.29 % 
-minha-frota              1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-exoplanets_api           1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-money-bag                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-PontoMobile              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+ana_base                 3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.81 % 
+minha-frota              1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+exoplanets_api           1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+money-bag                1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+PontoMobile              40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 💻 Operating System: 
-WSL                      6 hrs 42 mins       ████████████████░░░░░░░░░   62.59 % 
-Windows                  4 hrs               █████████░░░░░░░░░░░░░░░░   37.41 % 
+WSL                      5 hrs 51 mins       ███████████████░░░░░░░░░░   61.85 % 
+Windows                  3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 2 mins (37.73%)
+⏱ AI Coding Time: 3 hrs 16 mins (34.66%)
 
-✍️ 5,758 lines written by AI, 103 lines written by hand (98.24% AI-written)
+✍️ 3,450 lines written by AI, 100 lines written by hand (97.18% AI-written)
 
-🔤 1,751,485 Input Tokens, 460,289 Output Tokens
+🔤 1,573,051 Input Tokens, 427,694 Output Tokens
 
-💵 $85.90 Estimated AI Cost This Week
+💵 $71.80 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 23 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
-Claude                   5,465 lines         █████████████████████░░░░   84.89 % 
-Fable                    973 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Claude                   3,561 lines         █████████████████████░░░░   83.63 % 
+Fable                    697 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.24% of written lines came from AI
-📄 Detailed Prompter — average 792 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.97% of changed lines were hand-edited
+🤖 AI-Driven — 97.18% of written lines came from AI
+📄 Detailed Prompter — average 940 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 3.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 02:13:00 UTC
+ Last Updated on 21/08/2026 02:19:58 UTC
 <!--END_SECTION:waka-->
