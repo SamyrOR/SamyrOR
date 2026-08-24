@@ -82,43 +82,43 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C421%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C422%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.53 % 
-Dart                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Markdown                 4 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.24 % 
+Dart                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-Neovim                   5 hrs 5 mins        ███████████████░░░░░░░░░░   58.89 % 
-Claude Code              2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.91 % 
-VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Neovim                   4 hrs 57 mins       ███████████████░░░░░░░░░░   58.27 % 
+Claude Code              2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.74 % 
-money-bag                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-PontoMobile              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-ponto-estacaocompartilhad43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+ana_base                 3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
+money-bag                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+PontoMobile              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+ponto-estacaocompartilhad43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 💻 Operating System: 
-WSL                      5 hrs 5 mins        ███████████████░░░░░░░░░░   58.89 % 
-Windows                  3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.11 % 
+WSL                      4 hrs 57 mins       ███████████████░░░░░░░░░░   58.27 % 
+Windows                  3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (59.04%)
+⏱ AI Coding Time: 5 hrs 5 mins (59.93%)
 
-✍️ 7,136 lines written by AI, 90 lines written by hand (98.75% AI-written)
+✍️ 7,136 lines written by AI, 87 lines written by hand (98.8% AI-written)
 
 🔤 1,573,964 Input Tokens, 428,124 Output Tokens
 
@@ -131,12 +131,12 @@ Fable                    591 lines           ██░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.75% of written lines came from AI
+🤖 AI-Driven — 98.8% of written lines came from AI
 📄 Detailed Prompter — average 940 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.24% of changed lines were hand-edited
+🚀 High AI Trust — 1.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 02:20:34 UTC
+ Last Updated on 24/08/2026 02:18:56 UTC
 <!--END_SECTION:waka-->
