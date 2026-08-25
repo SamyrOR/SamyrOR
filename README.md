@@ -90,33 +90,33 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 6 mins        ████████████░░░░░░░░░░░░░   48.24 % 
-Dart                     1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 3 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.10 % 
+Dart                     1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+YAML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Java Properties          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 57 mins       ███████████████░░░░░░░░░░   58.27 % 
-Claude Code              2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.41 % 
-VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Neovim                   4 hrs 22 mins       ██████████████░░░░░░░░░░░   55.19 % 
+Claude Code              2 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+VS Code                  42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
-money-bag                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-PontoMobile              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-ponto-estacaocompartilhad43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+ana_base                 3 hrs 31 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+money-bag                1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+PontoMobile              43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+ponto-estacaocompartilhad43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 💻 Operating System: 
-WSL                      4 hrs 57 mins       ███████████████░░░░░░░░░░   58.27 % 
-Windows                  3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
+WSL                      4 hrs 22 mins       ██████████████░░░░░░░░░░░   55.19 % 
+Windows                  3 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 5 mins (59.93%)
+⏱ AI Coding Time: 5 hrs 5 mins (64.36%)
 
 ✍️ 7,136 lines written by AI, 87 lines written by hand (98.8% AI-written)
 
@@ -138,5 +138,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/08/2026 02:18:56 UTC
+ Last Updated on 25/08/2026 02:14:41 UTC
 <!--END_SECTION:waka-->
