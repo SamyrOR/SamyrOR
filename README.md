@@ -90,52 +90,52 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
-YAML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Dart                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Java Properties          18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Markdown                 58 mins             ████████░░░░░░░░░░░░░░░░░   30.73 % 
+YAML                     38 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Dart                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Other                    22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+TypeScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 32 mins       ████████████████░░░░░░░░░   65.43 % 
-Claude Code              1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-VS Code                  34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Neovim                   2 hrs 34 mins       ████████████████████░░░░░   80.56 % 
+Claude Code              34 mins             █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🐱‍💻 Projects: 
-ana_base                 1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   33.97 % 
-ponto-estacaocompartilhad43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-money-bag                43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-PontoMobile              34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Unknown Project          31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+ponto-estacaocompartilhad40 mins             █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+ana_base                 37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Unknown Project          31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+meu-dinheiro             29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+money-bag                22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 
 💻 Operating System: 
-WSL                      3 hrs 32 mins       ████████████████░░░░░░░░░   65.43 % 
-Windows                  1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   34.57 % 
+WSL                      2 hrs 34 mins       ████████████████████░░░░░   80.56 % 
+Windows                  37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 17 mins (61.01%)
+⏱ AI Coding Time: 1 hr 59 mins (62.25%)
 
-✍️ 7,070 lines written by AI, 87 lines written by hand (98.78% AI-written)
+✍️ 3,724 lines written by AI, 73 lines written by hand (98.08% AI-written)
 
-🔤 773,606 Input Tokens, 147,541 Output Tokens
+🔤 228,319 Input Tokens, 43,939 Output Tokens
 
-💵 $26.38 Estimated AI Cost This Week
+💵 $10.14 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
-Claude                   6,561 lines         ███████████████████████░░   92.46 % 
-Fable                    535 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Claude                   3,417 lines         ███████████████████████░░   90.68 % 
+Fable                    351 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.78% of written lines came from AI
-📄 Detailed Prompter — average 1,465 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.21% of changed lines were hand-edited
+🤖 AI-Driven — 98.08% of written lines came from AI
+📚 Verbose Prompter — average 2,516 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.94% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 02:21:18 UTC
+ Last Updated on 27/08/2026 10:49:38 UTC
 <!--END_SECTION:waka-->
