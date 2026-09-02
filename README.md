@@ -82,60 +82,60 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C426%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C427%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%204%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   35.67 % 
-HTML                     53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-YAML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Dart                     1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   36.11 % 
+HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+YAML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Markdown                 30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 39 mins       ████████████████████░░░░░   79.57 % 
-Neovim                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Claude Code              3 hrs 50 mins       ███████████████████░░░░░░   77.08 % 
+Neovim                   59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-ana_base                 3 hrs 45 mins       ████████████████████░░░░░   81.56 % 
-Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-money-bag                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-ponto-estacaocompartilhad6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-meu-dinheiro             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+ana_base                 3 hrs 56 mins       ████████████████████░░░░░   78.92 % 
+Unknown Project          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+ponto-estacaocompartilhad19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+money-bag                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+meu-dinheiro             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Windows                  3 hrs 48 mins       █████████████████████░░░░   82.89 % 
-WSL                      47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Windows                  4 hrs               ████████████████████░░░░░   80.14 % 
+WSL                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 43 mins (81.02%)
+⏱ AI Coding Time: 3 hrs 57 mins (79.36%)
 
 ✍️ 4,603 lines written by AI, 9 lines written by hand (99.8% AI-written)
 
-🔤 2,781,739 Input Tokens, 445,436 Output Tokens
+🔤 4,158,380 Input Tokens, 454,064 Output Tokens
 
-💵 $113.31 Estimated AI Cost This Week
+💵 $129.71 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 41 AI Prompts
+🧠 6 AI Sessions, 44 AI Prompts
 
 Fable                    4,659 lines         █████████████████████████   99.13 % 
 Claude                   41 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.8% of written lines came from AI
-📚 Verbose Prompter — average 3,384 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 3,329 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 05:56:51 UTC
+ Last Updated on 02/09/2026 05:19:28 UTC
 <!--END_SECTION:waka-->
