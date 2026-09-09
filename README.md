@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C430%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C430%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-182%20hrs%2031%20mins-blue?style=flat)
 
@@ -90,52 +90,52 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-PHP                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Markdown                 1 hr 14 mins        █████████░░░░░░░░░░░░░░░░   34.25 % 
+Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+PHP                      28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Other                    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 37 mins       █████████████████░░░░░░░░   66.96 % 
-Neovim                   1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.34 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Claude Code              2 hrs 26 mins       █████████████████░░░░░░░░   67.21 % 
+Neovim                   1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.05 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🐱‍💻 Projects: 
-ana_base                 2 hrs 39 mins       █████████████████░░░░░░░░   67.66 % 
-Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-ponto-estacaocompartilhad16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-timesheets               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-samyr                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+ana_base                 2 hrs 27 mins       █████████████████░░░░░░░░   67.95 % 
+Unknown Project          19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+timesheets               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+samyr                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+so-win                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 💻 Operating System: 
-Windows                  2 hrs 39 mins       █████████████████░░░░░░░░   67.66 % 
-WSL                      1 hr 16 mins        ████████░░░░░░░░░░░░░░░░░   32.34 % 
+Windows                  2 hrs 27 mins       █████████████████░░░░░░░░   67.95 % 
+WSL                      1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   32.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (88.12%)
+⏱ AI Coding Time: 3 hrs 13 mins (88.83%)
 
 ✍️ 3,274 lines written by AI, 348 lines written by hand (90.39% AI-written)
 
-🔤 2,434,756 Input Tokens, 185,690 Output Tokens
+🔤 1,058,115 Input Tokens, 177,062 Output Tokens
 
-💵 $79.78 Estimated AI Cost This Week
+💵 $71.18 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 23 AI Prompts
+🧠 3 AI Sessions, 20 AI Prompts
 
 Fable                    3,303 lines         █████████████████████████   98.83 % 
 Claude                   39 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 90.39% of written lines came from AI
-📚 Verbose Prompter — average 4,243 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 4,494 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 9.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 05:31:21 UTC
+ Last Updated on 09/09/2026 05:38:24 UTC
 <!--END_SECTION:waka-->
