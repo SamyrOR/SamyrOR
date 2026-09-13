@@ -82,62 +82,62 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C433%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C436%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-186%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%2053%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-YAML                     1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-TypeScript               33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Dart                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+YAML                     1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Dart                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
+TypeScript               37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Other                    31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.83 % 
-Claude Code              2 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.03 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Claude Code              3 hrs 51 mins       ███████████████░░░░░░░░░░   61.83 % 
+Neovim                   2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.79 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🐱‍💻 Projects: 
-ana_base                 2 hrs 28 mins       █████████████░░░░░░░░░░░░   51.17 % 
-meutrabalho-app          28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Unknown Project          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-ponto-estacaocompartilhad22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-biometria-poc            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+ana_base                 4 hrs 11 mins       █████████████████░░░░░░░░   67.05 % 
+meutrabalho-app          45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+MeuTrabalho-frontend     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+biometria-poc            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████░░░░░░░░░░░░   51.17 % 
-WSL                      2 hrs 21 mins       ████████████░░░░░░░░░░░░░   48.83 % 
+Windows                  4 hrs 11 mins       █████████████████░░░░░░░░   67.21 % 
+WSL                      2 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.79 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 11 mins (86.74%)
+⏱ AI Coding Time: 5 hrs 21 mins (85.92%)
 
-✍️ 3,363 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,923 lines written by AI, 30 lines written by hand (99.39% AI-written)
 
-🔤 1,376,098 Input Tokens, 255,952 Output Tokens
+🔤 1,785,744 Input Tokens, 421,726 Output Tokens
 
-💵 $32.04 Estimated AI Cost This Week
+💵 $62.60 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 24 AI Prompts
+🧠 10 AI Sessions, 32 AI Prompts
 
-Claude                   2,454 lines         ██████████████████░░░░░░░   72.97 % 
-Fable                    504 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Opus                     405 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Opus                     2,427 lines         ████████████░░░░░░░░░░░░░   49.03 % 
+Claude                   2,019 lines         ██████████░░░░░░░░░░░░░░░   40.79 % 
+Fable                    504 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,299 characters per prompt
+🤖 AI-Driven — 99.39% of written lines came from AI
+📄 Detailed Prompter — average 1,280 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
+🚀 High AI Trust — 1.18% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 05:18:19 UTC
+ Last Updated on 13/09/2026 05:32:44 UTC
 <!--END_SECTION:waka-->
