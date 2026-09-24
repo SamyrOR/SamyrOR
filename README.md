@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2013%20mins-blue?style=flat)
 
@@ -90,35 +90,35 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   38.72 % 
-Markdown                 49 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Dart                     1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.14 % 
+Markdown                 37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-Claude Code              1 hr 15 mins        ███████████░░░░░░░░░░░░░░   45.04 % 
-Neovim                   1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Claude Code              1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.69 % 
+Neovim                   1 hr 9 mins         ███████████░░░░░░░░░░░░░░   42.72 % 
+VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 
 🐱‍💻 Projects: 
-ana_base                 1 hr 32 mins        ██████████████░░░░░░░░░░░   55.25 % 
-MeuTrabalho-frontend     46 mins             ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-MeuTrabalho-backend      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-timesheets               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-MeuRH-frontend           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+ana_base                 1 hr 32 mins        ██████████████░░░░░░░░░░░   57.28 % 
+MeuTrabalho-frontend     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+MeuTrabalho-backend      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+timesheets               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+MeuRH-frontend           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        ██████████████░░░░░░░░░░░   55.25 % 
-WSL                      1 hr 15 mins        ███████████░░░░░░░░░░░░░░   44.75 % 
+Windows                  1 hr 32 mins        ██████████████░░░░░░░░░░░   57.28 % 
+WSL                      1 hr 9 mins         ███████████░░░░░░░░░░░░░░   42.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (62.86%)
+⏱ AI Coding Time: 1 hr 45 mins (64.86%)
 
-✍️ 552 lines written by AI, 6 lines written by hand (98.92% AI-written)
+✍️ 552 lines written by AI, 2 lines written by hand (99.64% AI-written)
 
 🔤 787,818 Input Tokens, 101,696 Output Tokens
 
@@ -130,12 +130,12 @@ Opus                     469 lines           ███████████�
 Claude                   85 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.92% of written lines came from AI
+🤖 AI-Driven — 99.64% of written lines came from AI
 📄 Detailed Prompter — average 1,213 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 1.42% of changed lines were hand-edited
+🚀 High AI Trust — 0.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 05:25:16 UTC
+ Last Updated on 24/09/2026 05:44:03 UTC
 <!--END_SECTION:waka-->
