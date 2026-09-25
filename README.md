@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2013%20mins-blue?style=flat)
 
@@ -90,35 +90,35 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   40.14 % 
-Markdown                 37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-YAML                     23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-Docker                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Dart                     1 hr 5 mins         █████████████░░░░░░░░░░░░   50.06 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+YAML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Docker                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 
 🔥 Editors: 
-Claude Code              1 hr 15 mins        ████████████░░░░░░░░░░░░░   46.69 % 
-Neovim                   1 hr 9 mins         ███████████░░░░░░░░░░░░░░   42.72 % 
-VS Code                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Claude Code              1 hr 15 mins        ███████████████░░░░░░░░░░   58.24 % 
+VS Code                  28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+Neovim                   26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 
 🐱‍💻 Projects: 
-ana_base                 1 hr 32 mins        ██████████████░░░░░░░░░░░   57.28 % 
-MeuTrabalho-frontend     43 mins             ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-MeuTrabalho-backend      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-timesheets               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-MeuRH-frontend           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+ana_base                 1 hr 44 mins        ████████████████████░░░░░   79.99 % 
+MeuTrabalho-frontend     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+timesheets               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+MeuRH-frontend           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+MeuRH-backend            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  1 hr 32 mins        ██████████████░░░░░░░░░░░   57.28 % 
-WSL                      1 hr 9 mins         ███████████░░░░░░░░░░░░░░   42.72 % 
+Windows                  1 hr 44 mins        ████████████████████░░░░░   79.99 % 
+WSL                      26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 45 mins (64.86%)
+⏱ AI Coding Time: 1 hr 31 mins (70.3%)
 
-✍️ 552 lines written by AI, 2 lines written by hand (99.64% AI-written)
+✍️ 541 lines written by AI, 2 lines written by hand (99.63% AI-written)
 
 🔤 787,818 Input Tokens, 101,696 Output Tokens
 
@@ -126,16 +126,16 @@ WSL                      1 hr 9 mins         ███████████�
 
 🧠 1 AI Sessions, 9 AI Prompts
 
-Opus                     469 lines           █████████████████████░░░░   84.66 % 
-Claude                   85 lines            ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Opus                     469 lines           ██████████████████████░░░   86.37 % 
+Claude                   74 lines            ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
+🤖 AI-Driven — 99.63% of written lines came from AI
 📄 Detailed Prompter — average 1,213 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.72% of changed lines were hand-edited
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 05:44:03 UTC
+ Last Updated on 25/09/2026 05:40:55 UTC
 <!--END_SECTION:waka-->
