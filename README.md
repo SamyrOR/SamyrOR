@@ -90,27 +90,25 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     20 mins             █████████░░░░░░░░░░░░░░░░   35.77 % 
-YAML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Docker                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Python                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+YAML                     11 mins             ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+Docker                   9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+Dart                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████░░░░░░░░░░░░   53.97 % 
-Neovim                   25 mins             ███████████░░░░░░░░░░░░░░   44.95 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+VS Code                  19 mins             █████████████░░░░░░░░░░░░   53.57 % 
+Neovim                   16 mins             ███████████░░░░░░░░░░░░░░   44.76 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🐱‍💻 Projects: 
-ana_base                 31 mins             ██████████████░░░░░░░░░░░   55.05 % 
-MeuTrabalho-frontend     10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-timesheets               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-MeuRH-frontend           6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-MeuRH-backend            1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+ana_base                 20 mins             ██████████████░░░░░░░░░░░   55.24 % 
+MeuTrabalho-frontend     10 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+MeuRH-frontend           6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 
 💻 Operating System: 
-Windows                  31 mins             ██████████████░░░░░░░░░░░   55.05 % 
-WSL                      25 mins             ███████████░░░░░░░░░░░░░░   44.95 % 
+Windows                  20 mins             ██████████████░░░░░░░░░░░   55.24 % 
+WSL                      16 mins             ███████████░░░░░░░░░░░░░░   44.76 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -120,5 +118,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/09/2026 05:44:11 UTC
+ Last Updated on 27/09/2026 06:03:38 UTC
 <!--END_SECTION:waka-->
