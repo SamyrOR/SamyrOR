@@ -82,10 +82,42 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2019%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     28 mins             ████████░░░░░░░░░░░░░░░░░   32.72 % 
+Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
+TypeScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
+PHP                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Dart                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+
+🔥 Editors: 
+Neovim                   1 hr 6 mins         ███████████████████░░░░░░   76.28 % 
+VS Code                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+
+🐱‍💻 Projects: 
+MeuTrabalho-frontend     20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+ana_base                 20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+meutrabalho-app          19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+BancosWeb                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Unknown Project          6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+
+💻 Operating System: 
+WSL                      1 hr 6 mins         ███████████████████░░░░░░   76.28 % 
+Windows                  20 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 
- Last Updated on 29/09/2026 06:29:37 UTC
+ Last Updated on 30/09/2026 06:13:15 UTC
 <!--END_SECTION:waka-->
