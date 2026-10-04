@@ -90,26 +90,26 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-YAML                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-TypeScript               14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Python                   14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-PHP                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Python                   14 mins             ██████████░░░░░░░░░░░░░░░   39.34 % 
+YAML                     11 mins             ████████░░░░░░░░░░░░░░░░░   30.35 % 
+JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Neovim                   1 hr 10 mins        ████████████████████░░░░░   81.58 % 
-VS Code                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Neovim                   20 mins             ██████████████░░░░░░░░░░░   56.77 % 
+VS Code                  15 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
 
 🐱‍💻 Projects: 
-meutrabalho-app          19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-ana_base                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-reconhecimentofacialv2-ap14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-MeuTrabalho-frontend     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-BancosWeb                8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+ana_base                 15 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
+reconhecimentofacialv2-ap14 mins             ██████████░░░░░░░░░░░░░░░   39.52 % 
+ponto-estacaocompartilhad3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+MeuTrabalho-frontend     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 💻 Operating System: 
-WSL                      1 hr 10 mins        ████████████████████░░░░░   81.58 % 
-Windows                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+WSL                      20 mins             ██████████████░░░░░░░░░░░   56.77 % 
+Windows                  15 mins             ███████████░░░░░░░░░░░░░░   43.23 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 05:57:13 UTC
+ Last Updated on 04/10/2026 06:33:55 UTC
 <!--END_SECTION:waka-->
