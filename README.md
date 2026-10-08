@@ -90,24 +90,22 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
-Python                   26 mins             ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Python                   14 mins             ████████████░░░░░░░░░░░░░   47.54 % 
+YAML                     9 mins              ████████░░░░░░░░░░░░░░░░░   30.55 % 
+JSON                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Neovim                   1 hr 13 mins        █████████████████████░░░░   82.22 % 
-VS Code                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+VS Code                  15 mins             █████████████░░░░░░░░░░░░   52.24 % 
+Neovim                   14 mins             ████████████░░░░░░░░░░░░░   47.76 % 
 
 🐱‍💻 Projects: 
-reconhecimentofacialv2-ap40 mins             ███████████░░░░░░░░░░░░░░   44.79 % 
-Unknown Project          33 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
-ana_base                 15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+ana_base                 15 mins             █████████████░░░░░░░░░░░░   52.24 % 
+reconhecimentofacialv2-ap14 mins             ████████████░░░░░░░░░░░░░   47.76 % 
 
 💻 Operating System: 
-WSL                      1 hr 13 mins        █████████████████████░░░░   82.22 % 
-Windows                  15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Windows                  15 mins             █████████████░░░░░░░░░░░░   52.24 % 
+WSL                      14 mins             ████████████░░░░░░░░░░░░░   47.76 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,5 +115,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2026 06:46:07 UTC
+ Last Updated on 08/10/2026 06:55:07 UTC
 <!--END_SECTION:waka-->
