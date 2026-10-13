@@ -90,26 +90,26 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-JSON                     18 mins             █████████░░░░░░░░░░░░░░░░   36.40 % 
-YAML                     16 mins             ████████░░░░░░░░░░░░░░░░░   33.88 % 
-TypeScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+JSON                     18 mins             █████████░░░░░░░░░░░░░░░░   36.91 % 
+YAML                     16 mins             █████████░░░░░░░░░░░░░░░░   34.35 % 
+TypeScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████░░░░░░░░   69.64 % 
-Neovim                   15 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
+VS Code                  34 mins             ██████████████████░░░░░░░   70.61 % 
+Neovim                   14 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
 
 🐱‍💻 Projects: 
-ana_base                 34 mins             █████████████████░░░░░░░░   69.64 % 
-meutrabalho-app          7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-MeuTrabalho-frontend     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-reconhecimentofacialv2-ap0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+ana_base                 34 mins             ██████████████████░░░░░░░   70.61 % 
+meutrabalho-app          7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+MeuTrabalho-frontend     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+PontoMobile              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████░░░░░░░░   69.64 % 
-WSL                      15 mins             ████████░░░░░░░░░░░░░░░░░   30.36 % 
+Windows                  34 mins             ██████████████████░░░░░░░   70.61 % 
+WSL                      14 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/10/2026 06:50:31 UTC
+ Last Updated on 13/10/2026 07:16:20 UTC
 <!--END_SECTION:waka-->
