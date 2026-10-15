@@ -82,34 +82,34 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C440%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C441%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2056%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-JSON                     18 mins             █████████░░░░░░░░░░░░░░░░   36.91 % 
-YAML                     16 mins             █████████░░░░░░░░░░░░░░░░   34.35 % 
-TypeScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+YAML                     29 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
+Python                   21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+JSON                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+TypeScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 
 🔥 Editors: 
-VS Code                  34 mins             ██████████████████░░░░░░░   70.61 % 
-Neovim                   14 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+VS Code                  47 mins             ██████████████░░░░░░░░░░░   57.19 % 
+Neovim                   35 mins             ███████████░░░░░░░░░░░░░░   42.81 % 
 
 🐱‍💻 Projects: 
-ana_base                 34 mins             ██████████████████░░░░░░░   70.61 % 
-meutrabalho-app          7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-MeuTrabalho-frontend     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-PontoMobile              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+ana_base                 47 mins             ██████████████░░░░░░░░░░░   57.19 % 
+Unknown Project          21 mins             ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+meutrabalho-app          7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+MeuTrabalho-frontend     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+PontoMobile              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  34 mins             ██████████████████░░░░░░░   70.61 % 
-WSL                      14 mins             ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Windows                  47 mins             ██████████████░░░░░░░░░░░   57.19 % 
+WSL                      35 mins             ███████████░░░░░░░░░░░░░░   42.81 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +119,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2026 05:41:35 UTC
+ Last Updated on 15/10/2026 05:26:56 UTC
 <!--END_SECTION:waka-->
