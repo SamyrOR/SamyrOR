@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C442%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C442%20hrs%2046%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2058%20mins-blue?style=flat)
 
@@ -90,23 +90,26 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-YAML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-JSON                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Java                     13 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-TypeScript               7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Other                    6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+YAML                     33 mins             ████████░░░░░░░░░░░░░░░░░   30.39 % 
+Other                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Java                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Docker                   13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
 
 🔥 Editors: 
-Neovim                   1 hr 6 mins         █████████████████████████   100.00 % 
+Neovim                   1 hr 40 mins        ███████████████████████░░   91.61 % 
+VS Code                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 🐱‍💻 Projects: 
-ponto-estacaocompartilhad40 mins             ███████████████░░░░░░░░░░   60.89 % 
-Unknown Project          19 mins             ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-PontoMobile              3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-MeuTrabalho-frontend     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+ponto-estacaocompartilhad1 hr 6 mins         ███████████████░░░░░░░░░░   60.92 % 
+Unknown Project          19 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+ana_base                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+PontoMobile              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+PontoWeb                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-WSL                      1 hr 6 mins         █████████████████████████   100.00 % 
+WSL                      1 hr 40 mins        ███████████████████████░░   91.61 % 
+Windows                  9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,5 +119,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 22/10/2026 05:38:46 UTC
+ Last Updated on 23/10/2026 05:38:27 UTC
 <!--END_SECTION:waka-->
