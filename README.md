@@ -82,7 +82,7 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%205%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2058%20mins-blue?style=flat)
 
@@ -90,26 +90,25 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Dart                     16 mins             █████████░░░░░░░░░░░░░░░░   34.05 % 
-Docker                   13 mins             ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-YAML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Other                    7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Dart                     18 mins             ███████████░░░░░░░░░░░░░░   42.56 % 
+Docker                   13 mins             ████████░░░░░░░░░░░░░░░░░   31.04 % 
+YAML                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████░░░░░░░░░░░░   52.64 % 
-Neovim                   23 mins             ████████████░░░░░░░░░░░░░   47.36 % 
+VS Code                  27 mins             ████████████████░░░░░░░░░   63.98 % 
+Neovim                   15 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
 
 🐱‍💻 Projects: 
-ana_base                 25 mins             █████████████░░░░░░░░░░░░   52.64 % 
-ponto-estacaocompartilhad16 mins             ████████░░░░░░░░░░░░░░░░░   33.29 % 
-PontoWeb                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-meutrabalho-app          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Colaborador              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+ana_base                 27 mins             ████████████████░░░░░░░░░   63.98 % 
+ponto-estacaocompartilhad14 mins             ████████░░░░░░░░░░░░░░░░░   33.07 % 
+meutrabalho-app          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Colaborador              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████░░░░░░░░░░░░   52.64 % 
-WSL                      23 mins             ████████████░░░░░░░░░░░░░   47.36 % 
+Windows                  27 mins             ████████████████░░░░░░░░░   63.98 % 
+WSL                      15 mins             █████████░░░░░░░░░░░░░░░░   36.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,5 +118,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2026 05:50:58 UTC
+ Last Updated on 28/10/2026 06:29:42 UTC
 <!--END_SECTION:waka-->
