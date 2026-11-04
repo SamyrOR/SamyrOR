@@ -82,6 +82,58 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%2031%20mins-blue?style=flat)
 
- Last Updated on 03/11/2026 07:26:55 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2046%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    24 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Makefile                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+XML                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+
+🔥 Editors: 
+Claude Code              1 hr 24 mins        ███████████████████████░░   92.69 % 
+Neovim                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+
+🐱‍💻 Projects: 
+ponto-estacaocompartilhad29 mins             ████████░░░░░░░░░░░░░░░░░   32.13 % 
+MeuTrabalho-backend      27 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+samyr                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+PontoMobile              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+timesheets               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+
+💻 Operating System: 
+WSL                      1 hr 30 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 27 mins (96.49%)
+
+✍️ 3,134 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,019,446 Input Tokens, 245,869 Output Tokens
+
+💵 $39.33 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 30 AI Prompts
+
+Fable                    3,188 lines         █████████████████████████   98.98 % 
+Opus                     33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 87 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 04/11/2026 07:07:43 UTC
 <!--END_SECTION:waka-->
