@@ -82,50 +82,49 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-192%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2014%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    24 mins             ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-Makefile                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-XML                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Other                    35 mins             ███████████░░░░░░░░░░░░░░   44.97 % 
+Makefile                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+PHP                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-Claude Code              1 hr 24 mins        ███████████████████████░░   92.69 % 
-Neovim                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Claude Code              1 hr 3 mins         ████████████████████░░░░░   79.96 % 
+Neovim                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
 
 🐱‍💻 Projects: 
-ponto-estacaocompartilhad29 mins             ████████░░░░░░░░░░░░░░░░░   32.13 % 
-MeuTrabalho-backend      27 mins             ████████░░░░░░░░░░░░░░░░░   30.77 % 
-samyr                    18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-PontoMobile              11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-timesheets               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+MeuTrabalho-backend      37 mins             ████████████░░░░░░░░░░░░░   46.45 % 
+samyr                    20 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
+PontoMobile              17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+ponto-estacaocompartilhad4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+MeuTrabalho-frontend     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-WSL                      1 hr 30 mins        █████████████████████████   100.00 % 
+WSL                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 27 mins (96.49%)
+⏱ AI Coding Time: 1 hr 16 mins (95.76%)
 
-✍️ 3,134 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 765 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,019,446 Input Tokens, 245,869 Output Tokens
+🔤 1,272,407 Input Tokens, 130,659 Output Tokens
 
-💵 $39.33 Estimated AI Cost This Week
+💵 $24.08 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 30 AI Prompts
+🧠 7 AI Sessions, 28 AI Prompts
 
-Fable                    3,188 lines         █████████████████████████   98.98 % 
-Opus                     33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Fable                    1,222 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
@@ -135,5 +134,5 @@ Opus                     33 lines            ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/11/2026 07:07:43 UTC
+ Last Updated on 05/11/2026 07:37:01 UTC
 <!--END_SECTION:waka-->
