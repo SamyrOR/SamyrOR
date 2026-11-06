@@ -90,49 +90,53 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Other                    35 mins             ███████████░░░░░░░░░░░░░░   44.97 % 
-Makefile                 17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
-Python                   8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-PHP                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Other                    3 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.74 % 
+Markdown                 57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 
 🔥 Editors: 
-Claude Code              1 hr 3 mins         ████████████████████░░░░░   79.96 % 
-Neovim                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Claude Code              7 hrs 15 mins       ██████████████████████░░░   89.06 % 
+Neovim                   36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🐱‍💻 Projects: 
-MeuTrabalho-backend      37 mins             ████████████░░░░░░░░░░░░░   46.45 % 
-samyr                    20 mins             ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-PontoMobile              17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-ponto-estacaocompartilhad4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-MeuTrabalho-frontend     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+MeuTrabalho-backend      2 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+PontoMobile              2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+ponto-estacaocompartilhad1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+samyr                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+MeuRH-backend            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 💻 Operating System: 
-WSL                      1 hr 19 mins        █████████████████████████   100.00 % 
+WSL                      6 hrs 50 mins       █████████████████████░░░░   83.97 % 
+Mac                      55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Windows                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 16 mins (95.76%)
+⏱ AI Coding Time: 7 hrs 44 mins (95.06%)
 
-✍️ 765 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,276 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,272,407 Input Tokens, 130,659 Output Tokens
+🔤 5,363,988 Input Tokens, 1,217,819 Output Tokens
 
-💵 $24.08 Estimated AI Cost This Week
+💵 $145.48 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 28 AI Prompts
+🧠 20 AI Sessions, 69 AI Prompts
 
-Fable                    1,222 lines         █████████████████████████   100.00 % 
+Fable                    2,733 lines         █████████████████████████   99.31 % 
+Opus                     19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 1,080 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/11/2026 07:37:01 UTC
+ Last Updated on 06/11/2026 07:31:41 UTC
 <!--END_SECTION:waka-->
