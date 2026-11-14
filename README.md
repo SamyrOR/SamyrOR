@@ -90,51 +90,24 @@ or email me [✉️ saamyr@live.com](mailto:saamyr@live.com)
 
 ```text
 💬 Programming Languages: 
-Other                    32 mins             █████████░░░░░░░░░░░░░░░░   35.78 % 
-Bash                     27 mins             ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 13 mins        ████████████████████░░░░░   80.14 % 
-VS Code                  11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Neovim                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-PontoMobile              44 mins             ████████████░░░░░░░░░░░░░   48.69 % 
-samyr                    20 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-meutrabalho-app          15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-ana_base                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      54 mins             ███████████████░░░░░░░░░░   59.51 % 
-WSL                      35 mins             ██████████░░░░░░░░░░░░░░░   38.77 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (84.41%)
-
-✍️ 1,294 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 802,222 Input Tokens, 202,262 Output Tokens
-
-💵 $25.55 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 11 AI Prompts
-
-Fable                    1,294 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 146 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/11/2026 07:30:48 UTC
+ Last Updated on 14/11/2026 07:15:58 UTC
 <!--END_SECTION:waka-->
